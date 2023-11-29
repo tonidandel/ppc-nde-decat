@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.5.31)  29 NOV 2023 17:18
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.5.31)  29 NOV 2023 18:05
  restricted system commands enabled.
 **PPC-ECA.tex
 (./PPC-ECA.tex
@@ -2474,7 +2474,7 @@ Tight \hbox (badness 31) in paragraph at lines 1093--1094
 a de Gra-du-a-ção (PRO-GRAD)
  []
 
-<figuras//estrutura-administrativa.png, id=466, 466.74374pt x 555.57562pt>
+<figuras//estrutura-administrativa.png, id=480, 466.74374pt x 555.57562pt>
 File: figuras//estrutura-administrativa.png Graphic file (type png)
 <use figuras//estrutura-administrativa.png>
 Package luatex.def Info: figuras//estrutura-administrativa.png  used on input l
@@ -3027,7 +3027,7 @@ e-gu-rado a todo dis-cente re-gu-lar-mente
 [73
 
 ]
-<figuras//sist-controle.png, id=733, 950.55125pt x 302.12875pt>
+<figuras//sist-controle.png, id=747, 950.55125pt x 302.12875pt>
 File: figuras//sist-controle.png Graphic file (type png)
 <use figuras//sist-controle.png>
 Package luatex.def Info: figuras//sist-controle.png  used on input line 1521.
@@ -3249,7 +3249,7 @@ tp : / / www . soc . ufop . br / public / files /
 [91]
 warning  (file programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=877, 598.235pt x 845.1
+<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=891, 598.235pt x 845.1
 575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf Graphic file (type pd
 f)
@@ -3272,7 +3272,7 @@ on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=880, page=1, 598.235pt
+<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=894, page=1, 598.235pt
  x 845.1575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf Graphic file (type pd
 f)
@@ -3304,7 +3304,7 @@ page1 used on input line 1817.
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=885, page=2, 598.235pt
+<programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf, id=899, page=2, 598.235pt
  x 845.1575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/CAT001.pdf Graphic file (type pd
 f)
@@ -3334,7 +3334,7 @@ page2 used on input line 1817.
 as/1-Primeiro-Periodo/CAT001.pdf>]
 warning  (file programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=905, 597.53633pt x 845
+<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=919, 597.53633pt x 845
 .04684pt>
 File: programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf Graphic file (type pd
 f)
@@ -3357,7 +3357,7 @@ on): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=908, page=1, 597.53633
+<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=922, page=1, 597.53633
 pt x 845.04684pt>
 File: programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf Graphic file (type pd
 f)
@@ -3386,7 +3386,7 @@ page1 used on input line 1818.
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=909, page=2, 597.53633
+<programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf, id=923, page=2, 597.53633
 pt x 845.04684pt>
 File: programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf Graphic file (type pd
 f)
@@ -3414,7 +3414,7 @@ page2 used on input line 1818.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [94<./programas-disciplinas/1-Primeiro-Periodo/BCC703.pdf><./programas-disciplin
 as/1-Primeiro-Periodo/BCC703.pdf>]
-<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=932, 597.23125pt x 845
+<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=946, 597.23125pt x 845
 .1575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf Graphic file (type pd
 f)
@@ -3428,7 +3428,7 @@ f)
 Package luatex.def Info: programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf  u
 sed on input line 1819.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=935, page=1, 597.23125
+<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=949, page=1, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf Graphic file (type pd
 f)
@@ -3454,7 +3454,7 @@ f)
 Package luatex.def Info: programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf , 
 page1 used on input line 1819.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=936, page=2, 597.23125
+<programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf, id=950, page=2, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf Graphic file (type pd
 f)
@@ -3482,7 +3482,7 @@ page2 used on input line 1819.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [95<./programas-disciplinas/1-Primeiro-Periodo/MTM122.pdf><./programas-discipli
 nas/1-Primeiro-Periodo/MTM122.pdf>]
-<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=962, 597.55244pt x 845
+<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=976, 597.55244pt x 845
 .0772pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf Graphic file (type pd
 f)
@@ -3496,7 +3496,7 @@ f)
 Package luatex.def Info: programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf  u
 sed on input line 1820.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=965, page=1, 597.55244
+<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=979, page=1, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf Graphic file (type pd
 f)
@@ -3522,7 +3522,7 @@ f)
 Package luatex.def Info: programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf , 
 page1 used on input line 1820.
 (luatex.def)             Requested size: 298.1737pt x 421.68651pt.
-<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=966, page=2, 597.55244
+<programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf, id=980, page=2, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/1-Primeiro-Periodo/MTM730.pdf Graphic file (type pd
 f)
@@ -3553,7 +3553,7 @@ page2 used on input line 1820.
 as/1-Primeiro-Periodo/MTM730.pdf>]
 warning  (file programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1012, 597.53238pt x 84
+<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1026, 597.53238pt x 84
 5.05713pt>
 File: programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf Graphic file (type pd
 f)
@@ -3576,7 +3576,7 @@ on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1015, page=1, 597.5323
+<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1029, page=1, 597.5323
 8pt x 845.05713pt>
 File: programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf Graphic file (type pd
 f)
@@ -3605,7 +3605,7 @@ page1 used on input line 1821.
 
 warning  (file programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf) (pdf inclusi
 on): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1016, page=2, 597.5323
+<programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf, id=1030, page=2, 597.5323
 8pt x 845.05713pt>
 File: programas-disciplinas/1-Primeiro-Periodo/ARQ700.pdf Graphic file (type pd
 f)
@@ -3635,7 +3635,7 @@ page2 used on input line 1821.
 as/1-Primeiro-Periodo/ARQ700.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/BCC704.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1040, 597.53633pt x 845
+<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1054, 597.53633pt x 845
 .04684pt>
 File: programas-disciplinas/2-Segundo-Periodo/BCC704.pdf Graphic file (type pdf
 )
@@ -3658,7 +3658,7 @@ n): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/BCC704.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1043, page=1, 597.53633
+<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1057, page=1, 597.53633
 pt x 845.04684pt>
 File: programas-disciplinas/2-Segundo-Periodo/BCC704.pdf Graphic file (type pdf
 )
@@ -3687,7 +3687,7 @@ age1 used on input line 1828.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/BCC704.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1044, page=2, 597.53633
+<programas-disciplinas/2-Segundo-Periodo/BCC704.pdf, id=1058, page=2, 597.53633
 pt x 845.04684pt>
 File: programas-disciplinas/2-Segundo-Periodo/BCC704.pdf Graphic file (type pdf
 )
@@ -3717,7 +3717,7 @@ age2 used on input line 1828.
 s/2-Segundo-Periodo/BCC704.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS106.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1067, 597.55246pt x 845
+<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1081, 597.55246pt x 845
 .07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS106.pdf Graphic file (type pdf
 )
@@ -3740,7 +3740,7 @@ n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS106.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1070, page=1, 597.55246
+<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1084, page=1, 597.55246
 pt x 845.07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS106.pdf Graphic file (type pdf
 )
@@ -3769,7 +3769,7 @@ age1 used on input line 1829.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS106.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1071, page=2, 597.55246
+<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1085, page=2, 597.55246
 pt x 845.07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS106.pdf Graphic file (type pdf
 )
@@ -3799,7 +3799,7 @@ age2 used on input line 1829.
 s/2-Segundo-Periodo/FIS106.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS106.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1096, page=3, 597.55246
+<programas-disciplinas/2-Segundo-Periodo/FIS106.pdf, id=1110, page=3, 597.55246
 pt x 845.07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS106.pdf Graphic file (type pdf
 )
@@ -3834,7 +3834,7 @@ age3 used on input line 1829.
 [100<./programas-disciplinas/2-Segundo-Periodo/FIS106.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS107.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1102, 597.55246pt x 845
+<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1116, 597.55246pt x 845
 .07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS107.pdf Graphic file (type pdf
 )
@@ -3857,7 +3857,7 @@ n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS107.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1105, page=1, 597.55246
+<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1119, page=1, 597.55246
 pt x 845.07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS107.pdf Graphic file (type pdf
 )
@@ -3886,7 +3886,7 @@ age1 used on input line 1830.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/FIS107.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1106, page=2, 597.55246
+<programas-disciplinas/2-Segundo-Periodo/FIS107.pdf, id=1120, page=2, 597.55246
 pt x 845.07724pt>
 File: programas-disciplinas/2-Segundo-Periodo/FIS107.pdf Graphic file (type pdf
 )
@@ -3914,7 +3914,7 @@ age2 used on input line 1830.
 (luatex.def)             Requested size: 298.1737pt x 421.68652pt.
 [101<./programas-disciplinas/2-Segundo-Periodo/FIS107.pdf><./programas-disciplin
 as/2-Segundo-Periodo/FIS107.pdf>]
-<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1131, 597.23125pt x 845
+<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1145, 597.23125pt x 845
 .1575pt>
 File: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf Graphic file (type pdf
 )
@@ -3928,7 +3928,7 @@ File: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf  us
 ed on input line 1831.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1134, page=1, 597.23125
+<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1148, page=1, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf Graphic file (type pdf
 )
@@ -3954,7 +3954,7 @@ File: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf , p
 age1 used on input line 1831.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1135, page=2, 597.23125
+<programas-disciplinas/2-Segundo-Periodo/MTM123.pdf, id=1149, page=2, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/2-Segundo-Periodo/MTM123.pdf Graphic file (type pdf
 )
@@ -3984,7 +3984,7 @@ age2 used on input line 1831.
 nas/2-Segundo-Periodo/MTM123.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/CAT002.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1161, 598.235pt x 845.1
+<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1175, 598.235pt x 845.1
 575pt>
 File: programas-disciplinas/2-Segundo-Periodo/CAT002.pdf Graphic file (type pdf
 )
@@ -4007,7 +4007,7 @@ n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/CAT002.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1164, page=1, 598.235pt
+<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1178, page=1, 598.235pt
  x 845.1575pt>
 File: programas-disciplinas/2-Segundo-Periodo/CAT002.pdf Graphic file (type pdf
 )
@@ -4036,7 +4036,7 @@ age1 used on input line 1832.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/CAT002.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1165, page=2, 598.235pt
+<programas-disciplinas/2-Segundo-Periodo/CAT002.pdf, id=1179, page=2, 598.235pt
  x 845.1575pt>
 File: programas-disciplinas/2-Segundo-Periodo/CAT002.pdf Graphic file (type pdf
 )
@@ -4066,7 +4066,7 @@ age2 used on input line 1832.
 as/2-Segundo-Periodo/CAT002.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1188, 597.55244pt x 845
+<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1203, 597.55244pt x 845
 .0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf Graphic file (type pdf
 )
@@ -4089,7 +4089,7 @@ n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1191, page=1, 597.55244
+<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1206, page=1, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf Graphic file (type pdf
 )
@@ -4118,7 +4118,7 @@ age1 used on input line 1833.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1192, page=2, 597.55244
+<programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf, id=1207, page=2, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXXB.pdf Graphic file (type pdf
 )
@@ -4148,7 +4148,7 @@ age2 used on input line 1833.
 as/2-Segundo-Periodo/QUIXXB.pdf>]
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1217, 597.55244pt x 845
+<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1231, 597.55244pt x 845
 .0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf Graphic file (type pdf
 )
@@ -4171,7 +4171,7 @@ n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1220, page=1, 597.55244
+<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1234, page=1, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf Graphic file (type pdf
 )
@@ -4200,7 +4200,7 @@ age1 used on input line 1834.
 
 warning  (file programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf) (pdf inclusio
 n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1221, page=2, 597.55244
+<programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf, id=1235, page=2, 597.55244
 pt x 845.0772pt>
 File: programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf Graphic file (type pdf
 )
@@ -4228,7 +4228,7 @@ age2 used on input line 1834.
 (luatex.def)             Requested size: 298.1737pt x 421.68651pt.
 [105<./programas-disciplinas/2-Segundo-Periodo/QUIXAB.pdf><./programas-disciplin
 as/2-Segundo-Periodo/QUIXAB.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf, id=1246, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf, id=1260, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf Graphic file (type pd
 f)
@@ -4242,7 +4242,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf  u
 sed on input line 1838.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf, id=1249, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf, id=1263, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf Graphic file (type pd
 f)
@@ -4287,7 +4287,7 @@ Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf ,
 page1 used on input line 1838.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [106<./programas-disciplinas/3-Terceiro-Periodo/BCC721.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1275, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1289, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf Graphic file (type pd
 f)
@@ -4301,7 +4301,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf  u
 sed on input line 1839.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1278, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1292, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf Graphic file (type pd
 f)
@@ -4327,7 +4327,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf , 
 page1 used on input line 1839.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1279, page=2, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf, id=1293, page=2, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf Graphic file (type pd
 f)
@@ -4355,7 +4355,7 @@ page2 used on input line 1839.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [107<./programas-disciplinas/3-Terceiro-Periodo/BCC760.pdf><./programas-discipl
 inas/3-Terceiro-Periodo/BCC760.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1305, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1319, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf Graphic file (type pd
 f)
@@ -4369,7 +4369,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf  u
 sed on input line 1840.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1308, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1322, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf Graphic file (type pd
 f)
@@ -4395,7 +4395,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf , 
 page1 used on input line 1840.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1309, page=2, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf, id=1323, page=2, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf Graphic file (type pd
 f)
@@ -4423,7 +4423,7 @@ page2 used on input line 1840.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [108<./programas-disciplinas/3-Terceiro-Periodo/FIS108.pdf><./programas-discipl
 inas/3-Terceiro-Periodo/FIS108.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1335, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1349, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf Graphic file (type pd
 f)
@@ -4437,7 +4437,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf  u
 sed on input line 1841.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1338, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1352, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf Graphic file (type pd
 f)
@@ -4463,7 +4463,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf , 
 page1 used on input line 1841.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1339, page=2, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf, id=1353, page=2, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf Graphic file (type pd
 f)
@@ -4491,7 +4491,7 @@ page2 used on input line 1841.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [109<./programas-disciplinas/3-Terceiro-Periodo/MTM124.pdf><./programas-discipl
 inas/3-Terceiro-Periodo/MTM124.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1365, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1379, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf Graphic file (type pd
 f)
@@ -4505,7 +4505,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf  u
 sed on input line 1842.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1368, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1382, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf Graphic file (type pd
 f)
@@ -4531,7 +4531,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf , 
 page1 used on input line 1842.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1369, page=2, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf, id=1383, page=2, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf Graphic file (type pd
 f)
@@ -4559,7 +4559,7 @@ page2 used on input line 1842.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [110<./programas-disciplinas/3-Terceiro-Periodo/MTM125.pdf><./programas-discipl
 inas/3-Terceiro-Periodo/MTM125.pdf>]
-<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1396, 597.23125pt x 84
+<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1410, 597.23125pt x 84
 5.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf Graphic file (type pd
 f)
@@ -4573,7 +4573,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf  u
 sed on input line 1843.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1399, page=1, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1413, page=1, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf Graphic file (type pd
 f)
@@ -4599,7 +4599,7 @@ f)
 Package luatex.def Info: programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf , 
 page1 used on input line 1843.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1400, page=2, 597.2312
+<programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf, id=1414, page=2, 597.2312
 5pt x 845.1575pt>
 File: programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf Graphic file (type pd
 f)
@@ -4627,7 +4627,7 @@ page2 used on input line 1843.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [111<./programas-disciplinas/3-Terceiro-Periodo/AMB111.pdf><./programas-discipl
 inas/3-Terceiro-Periodo/AMB111.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1427, 597.23125pt x 845.
+<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1441, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf Graphic file (type pdf)
 
@@ -4641,7 +4641,7 @@ File: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf  use
 d on input line 1847.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1430, page=1, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1444, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf Graphic file (type pdf)
 
@@ -4667,7 +4667,7 @@ File: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf , pa
 ge1 used on input line 1847.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1431, page=2, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS109.pdf, id=1445, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS109.pdf Graphic file (type pdf)
 
@@ -4695,7 +4695,7 @@ ge2 used on input line 1847.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [112<./programas-disciplinas/4-Quarto-Periodo/FIS109.pdf><./programas-disciplin
 as/4-Quarto-Periodo/FIS109.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1457, 597.23125pt x 845.
+<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1471, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 
@@ -4709,7 +4709,7 @@ File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf  use
 d on input line 1848.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1460, page=1, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1474, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 
@@ -4735,7 +4735,7 @@ File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf , pa
 ge1 used on input line 1848.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1461, page=2, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1475, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 
@@ -4764,7 +4764,7 @@ ge2 used on input line 1848.
 
 [113<./programas-disciplinas/4-Quarto-Periodo/FIS105.pdf><./programas-disciplina
 s/4-Quarto-Periodo/FIS105.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1487, page=3, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1501, page=3, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 
@@ -4778,7 +4778,7 @@ File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf , pa
 ge3 used on input line 1848.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1488, page=4, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/FIS105.pdf, id=1502, page=4, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/FIS105.pdf Graphic file (type pdf)
 
@@ -4808,7 +4808,7 @@ ge4 used on input line 1848.
 as/4-Quarto-Periodo/FIS105.pdf>]
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1493, 598.235pt x 845.15
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1507, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4831,7 +4831,7 @@ warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1496, page=1, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1510, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4860,7 +4860,7 @@ ge1 used on input line 1849.
 
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1497, page=2, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1511, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4890,7 +4890,7 @@ ge2 used on input line 1849.
 s/4-Quarto-Periodo/MECXX1.pdf>]
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1517, page=3, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1531, page=3, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4907,7 +4907,7 @@ ge3 used on input line 1849.
 
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1518, page=4, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1532, page=4, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4937,7 +4937,7 @@ ge4 used on input line 1849.
 s/4-Quarto-Periodo/MECXX1.pdf>]
 warning  (file programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1528, page=5, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf, id=1542, page=5, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf Graphic file (type pdf)
 
@@ -4970,7 +4970,7 @@ Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf , pa
 ge5 used on input line 1849.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [117<./programas-disciplinas/4-Quarto-Periodo/MECXX1.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1533, 597.23125pt x 845.
+<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1547, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf Graphic file (type pdf)
 
@@ -4984,7 +4984,7 @@ File: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf  use
 d on input line 1850.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1536, page=1, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1550, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf Graphic file (type pdf)
 
@@ -5010,7 +5010,7 @@ File: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf , pa
 ge1 used on input line 1850.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1537, page=2, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/CAT176.pdf, id=1551, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/CAT176.pdf Graphic file (type pdf)
 
@@ -5038,7 +5038,7 @@ ge2 used on input line 1850.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [118<./programas-disciplinas/4-Quarto-Periodo/CAT176.pdf><./programas-disciplin
 as/4-Quarto-Periodo/CAT176.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1563, 597.23125pt x 845.
+<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1577, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 
@@ -5052,7 +5052,7 @@ File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf  use
 d on input line 1851.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1566, page=1, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1580, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 
@@ -5078,7 +5078,7 @@ File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf , pa
 ge1 used on input line 1851.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1567, page=2, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1581, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 
@@ -5106,7 +5106,7 @@ ge2 used on input line 1851.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [119<./programas-disciplinas/4-Quarto-Periodo/MTM146.pdf><./programas-disciplin
 as/4-Quarto-Periodo/MTM146.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1593, page=3, 597.23125p
+<programas-disciplinas/4-Quarto-Periodo/MTM146.pdf, id=1607, page=3, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf Graphic file (type pdf)
 
@@ -5139,7 +5139,7 @@ Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/MTM146.pdf , pa
 ge3 used on input line 1851.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [120<./programas-disciplinas/4-Quarto-Periodo/MTM146.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1599, 598.235pt x 845.15
+<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1613, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 
@@ -5153,7 +5153,7 @@ File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf  use
 d on input line 1852.
 (luatex.def)             Requested size: 598.23354pt x 845.15544pt.
-<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1602, page=1, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1616, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 
@@ -5179,7 +5179,7 @@ File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf , pa
 ge1 used on input line 1852.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
-<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1603, page=2, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1617, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 
@@ -5207,7 +5207,7 @@ ge2 used on input line 1852.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
  [121<./programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf><./programas-disciplin
 as/4-Quarto-Periodo/BCCXX3.pdf>]
-<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1623, page=3, 598.235pt 
+<programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf, id=1638, page=3, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf Graphic file (type pdf)
 
@@ -5240,7 +5240,7 @@ Package luatex.def Info: programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf , pa
 ge3 used on input line 1852.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
  [122<./programas-disciplinas/4-Quarto-Periodo/BCCXX3.pdf>]
-<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1628, 597.23125pt x 845.
+<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1643, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 
@@ -5254,7 +5254,7 @@ File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf  use
 d on input line 1856.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1631, page=1, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1646, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 
@@ -5280,7 +5280,7 @@ File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf , pa
 ge1 used on input line 1856.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1632, page=2, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1647, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 
@@ -5308,7 +5308,7 @@ ge2 used on input line 1856.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [123<./programas-disciplinas/5-Quinto-Periodo/BCC425.pdf><./programas-disciplin
 as/5-Quinto-Periodo/BCC425.pdf>]
-<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1659, page=3, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/BCC425.pdf, id=1673, page=3, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/BCC425.pdf Graphic file (type pdf)
 
@@ -5342,7 +5342,7 @@ ge3 used on input line 1856.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
 
 [124<./programas-disciplinas/5-Quinto-Periodo/BCC425.pdf>]
-<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1664, 597.23125pt x 845.
+<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1678, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 
@@ -5356,7 +5356,7 @@ File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/5-Quinto-Periodo/EST202.pdf  use
 d on input line 1857.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1667, page=1, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1681, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 
@@ -5382,7 +5382,7 @@ File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/5-Quinto-Periodo/EST202.pdf , pa
 ge1 used on input line 1857.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1668, page=2, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1682, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 
@@ -5410,7 +5410,7 @@ ge2 used on input line 1857.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [125<./programas-disciplinas/5-Quinto-Periodo/EST202.pdf><./programas-disciplin
 as/5-Quinto-Periodo/EST202.pdf>]
-<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1694, page=3, 597.23125p
+<programas-disciplinas/5-Quinto-Periodo/EST202.pdf, id=1708, page=3, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/EST202.pdf Graphic file (type pdf)
 
@@ -5445,7 +5445,7 @@ ge3 used on input line 1857.
  [126<./programas-disciplinas/5-Quinto-Periodo/EST202.pdf>]
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX003.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1699, 598.235pt x 845.15
+<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1713, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX003.pdf Graphic file (type pdf)
 
@@ -5468,7 +5468,7 @@ warning  (file programas-disciplinas/5-Quinto-Periodo/XXX003.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX003.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1702, page=1, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1716, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX003.pdf Graphic file (type pdf)
 
@@ -5497,7 +5497,7 @@ ge1 used on input line 1858.
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX003.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1703, page=2, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1717, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX003.pdf Graphic file (type pdf)
 
@@ -5527,7 +5527,7 @@ ge2 used on input line 1858.
 s/5-Quinto-Periodo/XXX003.pdf>]
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX003.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1727, page=3, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX003.pdf, id=1741, page=3, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX003.pdf Graphic file (type pdf)
 
@@ -5562,7 +5562,7 @@ ge3 used on input line 1858.
 [128<./programas-disciplinas/5-Quinto-Periodo/XXX003.pdf>]
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX004.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1732, 598.235pt x 845.15
+<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1746, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX004.pdf Graphic file (type pdf)
 
@@ -5585,7 +5585,7 @@ warning  (file programas-disciplinas/5-Quinto-Periodo/XXX004.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX004.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1735, page=1, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1749, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX004.pdf Graphic file (type pdf)
 
@@ -5614,7 +5614,7 @@ ge1 used on input line 1859.
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX004.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1736, page=2, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX004.pdf, id=1750, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX004.pdf Graphic file (type pdf)
 
@@ -5644,7 +5644,7 @@ ge2 used on input line 1859.
 s/5-Quinto-Periodo/XXX004.pdf>]
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX029.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1760, 598.235pt x 845.15
+<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1774, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX029.pdf Graphic file (type pdf)
 
@@ -5667,7 +5667,7 @@ warning  (file programas-disciplinas/5-Quinto-Periodo/XXX029.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX029.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1763, page=1, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1777, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX029.pdf Graphic file (type pdf)
 
@@ -5696,7 +5696,7 @@ ge1 used on input line 1860.
 
 warning  (file programas-disciplinas/5-Quinto-Periodo/XXX029.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1764, page=2, 598.235pt 
+<programas-disciplinas/5-Quinto-Periodo/XXX029.pdf, id=1778, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/5-Quinto-Periodo/XXX029.pdf Graphic file (type pdf)
 
@@ -5724,7 +5724,7 @@ ge2 used on input line 1860.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [130<./programas-disciplinas/5-Quinto-Periodo/XXX029.pdf><./programas-disciplina
 s/5-Quinto-Periodo/XXX029.pdf>]
-<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1789, 597.23125pt x 845.1
+<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1803, 597.23125pt x 845.1
 575pt>
 File: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/CAT163.pdf>
@@ -5736,7 +5736,7 @@ File: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf  used
  on input line 1864.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1792, page=1, 597.23125pt
+<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1806, page=1, 597.23125pt
  x 845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, page 1>
@@ -5758,7 +5758,7 @@ File: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf , pag
 e1 used on input line 1864.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1793, page=2, 597.23125pt
+<programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, id=1807, page=2, 597.23125pt
  x 845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/CAT163.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/CAT163.pdf, page 2>
@@ -5784,7 +5784,7 @@ e2 used on input line 1864.
 s/6-Sexto-Periodo/CAT163.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX005.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1819, 598.235pt x 845.157
+<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1833, 598.235pt x 845.157
 5pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX005.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX005.pdf>
@@ -5805,7 +5805,7 @@ warning  (file programas-disciplinas/6-Sexto-Periodo/XXX005.pdf) (pdf inclusion)
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX005.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1822, page=1, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1836, page=1, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX005.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, page 1>
@@ -5830,7 +5830,7 @@ e1 used on input line 1865.
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX005.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1823, page=2, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, id=1837, page=2, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX005.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX005.pdf, page 2>
@@ -5856,7 +5856,7 @@ e2 used on input line 1865.
 /6-Sexto-Periodo/XXX005.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX006.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1848, 598.235pt x 845.157
+<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1862, 598.235pt x 845.157
 5pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX006.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX006.pdf>
@@ -5877,7 +5877,7 @@ warning  (file programas-disciplinas/6-Sexto-Periodo/XXX006.pdf) (pdf inclusion)
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX006.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1851, page=1, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1865, page=1, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX006.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, page 1>
@@ -5902,7 +5902,7 @@ e1 used on input line 1866.
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX006.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1852, page=2, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1866, page=2, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX006.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, page 2>
@@ -5928,7 +5928,7 @@ e2 used on input line 1866.
 /6-Sexto-Periodo/XXX006.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX006.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1876, page=3, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, id=1890, page=3, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX006.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX006.pdf, page 3>
@@ -5958,7 +5958,7 @@ e3 used on input line 1866.
 [134<./programas-disciplinas/6-Sexto-Periodo/XXX006.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX007.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1881, 598.235pt x 845.157
+<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1895, 598.235pt x 845.157
 5pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX007.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX007.pdf>
@@ -5979,7 +5979,7 @@ warning  (file programas-disciplinas/6-Sexto-Periodo/XXX007.pdf) (pdf inclusion)
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX007.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1884, page=1, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1898, page=1, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX007.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, page 1>
@@ -6004,7 +6004,7 @@ e1 used on input line 1867.
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX007.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1885, page=2, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1899, page=2, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX007.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, page 2>
@@ -6030,7 +6030,7 @@ e2 used on input line 1867.
 /6-Sexto-Periodo/XXX007.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX007.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1909, page=3, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, id=1923, page=3, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX007.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX007.pdf, page 3>
@@ -6060,7 +6060,7 @@ e3 used on input line 1867.
 [136<./programas-disciplinas/6-Sexto-Periodo/XXX007.pdf>]
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX008.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1914, 598.235pt x 845.157
+<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1928, 598.235pt x 845.157
 5pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX008.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX008.pdf>
@@ -6081,7 +6081,7 @@ warning  (file programas-disciplinas/6-Sexto-Periodo/XXX008.pdf) (pdf inclusion)
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX008.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1917, page=1, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1931, page=1, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX008.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, page 1>
@@ -6106,7 +6106,7 @@ e1 used on input line 1868.
 
 warning  (file programas-disciplinas/6-Sexto-Periodo/XXX008.pdf) (pdf inclusion)
 : PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1918, page=2, 598.235pt x
+<programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, id=1932, page=2, 598.235pt x
  845.1575pt>
 File: programas-disciplinas/6-Sexto-Periodo/XXX008.pdf Graphic file (type pdf)
 <use programas-disciplinas/6-Sexto-Periodo/XXX008.pdf, page 2>
@@ -6132,7 +6132,7 @@ e2 used on input line 1868.
 /6-Sexto-Periodo/XXX008.pdf>]
 warning  (file programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1942, 597.53633pt x 845.
+<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1956, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf Graphic file (type pdf)
 
@@ -6155,7 +6155,7 @@ warning  (file programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1945, page=1, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1959, page=1, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf Graphic file (type pdf)
 
@@ -6184,7 +6184,7 @@ ge1 used on input line 1872.
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1946, page=2, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf, id=1960, page=2, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf Graphic file (type pdf)
 
@@ -6212,7 +6212,7 @@ ge2 used on input line 1872.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [138<./programas-disciplinas/7-Setimo-Periodo/CIVXXX.pdf><./programas-disciplina
 s/7-Setimo-Periodo/CIVXXX.pdf>]
-<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1964, 597.53633pt x 845.
+<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1978, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf Graphic file (type pdf)
 
@@ -6226,7 +6226,7 @@ File: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf  use
 d on input line 1873.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1967, page=1, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1981, page=1, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf Graphic file (type pdf)
 
@@ -6252,7 +6252,7 @@ File: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf , pa
 ge1 used on input line 1873.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
-<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1968, page=2, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/XXX009.pdf, id=1982, page=2, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX009.pdf Graphic file (type pdf)
 
@@ -6282,7 +6282,7 @@ ge2 used on input line 1873.
 as/7-Setimo-Periodo/XXX009.pdf>]
 warning  (file programas-disciplinas/7-Setimo-Periodo/CAT175.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=1992, 597.53633pt x 845.
+<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=2006, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CAT175.pdf Graphic file (type pdf)
 
@@ -6305,7 +6305,7 @@ warning  (file programas-disciplinas/7-Setimo-Periodo/CAT175.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/CAT175.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=1995, page=1, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=2009, page=1, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CAT175.pdf Graphic file (type pdf)
 
@@ -6334,7 +6334,7 @@ ge1 used on input line 1874.
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/CAT175.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=1996, page=2, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/CAT175.pdf, id=2010, page=2, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/CAT175.pdf Graphic file (type pdf)
 
@@ -6419,7 +6419,7 @@ Package luatex.def Info: programas-disciplinas/6-Sexto-Periodo/XXX008.pdf , pag
 e2 used on input line 1875.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [141]
-<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2021, 597.53633pt x 845.
+<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2035, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf Graphic file (type pdf)
 
@@ -6433,7 +6433,7 @@ File: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf  use
 d on input line 1876.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2024, page=1, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2038, page=1, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf Graphic file (type pdf)
 
@@ -6459,7 +6459,7 @@ File: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf , pa
 ge1 used on input line 1876.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
-<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2025, page=2, 597.53633p
+<programas-disciplinas/7-Setimo-Periodo/BCC740.pdf, id=2039, page=2, 597.53633p
 t x 845.04684pt>
 File: programas-disciplinas/7-Setimo-Periodo/BCC740.pdf Graphic file (type pdf)
 
@@ -6489,7 +6489,7 @@ ge2 used on input line 1876.
 as/7-Setimo-Periodo/BCC740.pdf>]
 warning  (file programas-disciplinas/7-Setimo-Periodo/XXX023.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2050, 598.235pt x 845.15
+<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2064, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX023.pdf Graphic file (type pdf)
 
@@ -6512,7 +6512,7 @@ warning  (file programas-disciplinas/7-Setimo-Periodo/XXX023.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/XXX023.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2053, page=1, 598.235pt 
+<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2067, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX023.pdf Graphic file (type pdf)
 
@@ -6541,7 +6541,7 @@ ge1 used on input line 1877.
 
 warning  (file programas-disciplinas/7-Setimo-Periodo/XXX023.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2054, page=2, 598.235pt 
+<programas-disciplinas/7-Setimo-Periodo/XXX023.pdf, id=2068, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/7-Setimo-Periodo/XXX023.pdf Graphic file (type pdf)
 
@@ -6571,7 +6571,7 @@ ge2 used on input line 1877.
 s/7-Setimo-Periodo/XXX023.pdf>]
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2089, 598.235pt x 845.15
+<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2103, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf Graphic file (type pdf)
 
@@ -6594,7 +6594,7 @@ warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2092, page=1, 598.235pt 
+<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2106, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf Graphic file (type pdf)
 
@@ -6623,7 +6623,7 @@ ge1 used on input line 1880.
 
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2093, page=2, 598.235pt 
+<programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf, id=2107, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf Graphic file (type pdf)
 
@@ -6651,7 +6651,7 @@ ge2 used on input line 1880.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [144<./programas-disciplinas/8-Oitavo-Periodo/XXX013.pdf><./programas-disciplina
 s/8-Oitavo-Periodo/XXX013.pdf>]
-<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2112, 597.23125pt x 845.
+<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2126, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 
@@ -6665,7 +6665,7 @@ File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf  use
 d on input line 1881.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2115, page=1, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2129, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 
@@ -6691,7 +6691,7 @@ File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf , pa
 ge1 used on input line 1881.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2116, page=2, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2130, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 
@@ -6719,7 +6719,7 @@ ge2 used on input line 1881.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [145<./programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf><./programas-disciplin
 as/8-Oitavo-Periodo/MEC142.pdf>]
-<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2142, page=3, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2156, page=3, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 
@@ -6733,7 +6733,7 @@ File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf , pa
 ge3 used on input line 1881.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2143, page=4, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf, id=2157, page=4, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/MEC142.pdf Graphic file (type pdf)
 
@@ -6763,7 +6763,7 @@ ge4 used on input line 1881.
 as/8-Oitavo-Periodo/MEC142.pdf>]
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2148, 598.235pt x 845.15
+<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2162, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf Graphic file (type pdf)
 
@@ -6786,7 +6786,7 @@ warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf) (pdf inclusion
 
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2151, page=1, 598.235pt 
+<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2165, page=1, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf Graphic file (type pdf)
 
@@ -6815,7 +6815,7 @@ ge1 used on input line 1882.
 
 warning  (file programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf) (pdf inclusion
 ): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2152, page=2, 598.235pt 
+<programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf, id=2166, page=2, 598.235pt 
 x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf Graphic file (type pdf)
 
@@ -6843,7 +6843,7 @@ ge2 used on input line 1882.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [147<./programas-disciplinas/8-Oitavo-Periodo/XXX014.pdf><./programas-disciplina
 s/8-Oitavo-Periodo/XXX014.pdf>]
-<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2171, 597.23125pt x 845.
+<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2185, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf Graphic file (type pdf)
 
@@ -6857,7 +6857,7 @@ File: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf  use
 d on input line 1883.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2174, page=1, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2188, page=1, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf Graphic file (type pdf)
 
@@ -6883,7 +6883,7 @@ File: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf , pa
 ge1 used on input line 1883.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2175, page=2, 597.23125p
+<programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf, id=2189, page=2, 597.23125p
 t x 845.1575pt>
 File: programas-disciplinas/8-Oitavo-Periodo/BCC722.pdf Graphic file (type pdf)
 
@@ -6913,7 +6913,7 @@ ge2 used on input line 1883.
 as/8-Oitavo-Periodo/BCC722.pdf>]
 warning  (file programas-disciplinas/9-Nono-Periodo/XXX015.pdf) (pdf inclusion):
  PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2201, 598.235pt x 845.1575
+<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2215, 598.235pt x 845.1575
 pt>
 File: programas-disciplinas/9-Nono-Periodo/XXX015.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/XXX015.pdf>
@@ -6934,7 +6934,7 @@ warning  (file programas-disciplinas/9-Nono-Periodo/XXX015.pdf) (pdf inclusion):
 
 warning  (file programas-disciplinas/9-Nono-Periodo/XXX015.pdf) (pdf inclusion):
  PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2204, page=1, 598.235pt x 
+<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2218, page=1, 598.235pt x 
 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/XXX015.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/XXX015.pdf, page 1>
@@ -6959,7 +6959,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/XXX015.pdf , page
 
 warning  (file programas-disciplinas/9-Nono-Periodo/XXX015.pdf) (pdf inclusion):
  PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2205, page=2, 598.235pt x 
+<programas-disciplinas/9-Nono-Periodo/XXX015.pdf, id=2219, page=2, 598.235pt x 
 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/XXX015.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/XXX015.pdf, page 2>
@@ -6983,7 +6983,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/XXX015.pdf , page
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
 [149<./programas-disciplinas/9-Nono-Periodo/XXX015.pdf><./programas-disciplinas/
 9-Nono-Periodo/XXX015.pdf>]
-<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2229, 597.23125pt x 845.15
+<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2243, 597.23125pt x 845.15
 75pt>
 File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/DIR250.pdf>
@@ -6995,7 +6995,7 @@ File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/DIR250.pdf  used 
 on input line 1888.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2232, page=1, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2246, page=1, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/DIR250.pdf, page 1>
@@ -7017,7 +7017,7 @@ File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/DIR250.pdf , page
 1 used on input line 1888.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2233, page=2, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2247, page=2, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/DIR250.pdf, page 2>
@@ -7041,7 +7041,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/DIR250.pdf , page
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [150<./programas-disciplinas/9-Nono-Periodo/DIR250.pdf><./programas-disciplinas
 /9-Nono-Periodo/DIR250.pdf>]
-<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2261, page=3, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2275, page=3, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/DIR250.pdf, page 3>
@@ -7053,7 +7053,7 @@ File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/DIR250.pdf , page
 3 used on input line 1888.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2262, page=4, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/DIR250.pdf, id=2276, page=4, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/DIR250.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/DIR250.pdf, page 4>
@@ -7077,7 +7077,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/DIR250.pdf , page
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [151<./programas-disciplinas/9-Nono-Periodo/DIR250.pdf><./programas-disciplinas
 /9-Nono-Periodo/DIR250.pdf>]
-<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2267, 597.23125pt x 845.15
+<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2281, 597.23125pt x 845.15
 75pt>
 File: programas-disciplinas/9-Nono-Periodo/PRO224.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/PRO224.pdf>
@@ -7089,7 +7089,7 @@ File: programas-disciplinas/9-Nono-Periodo/PRO224.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/PRO224.pdf  used 
 on input line 1889.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2270, page=1, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2284, page=1, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/PRO224.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/PRO224.pdf, page 1>
@@ -7111,7 +7111,7 @@ File: programas-disciplinas/9-Nono-Periodo/PRO224.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/PRO224.pdf , page
 1 used on input line 1889.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2271, page=2, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/PRO224.pdf, id=2285, page=2, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/PRO224.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/PRO224.pdf, page 2>
@@ -7135,7 +7135,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/PRO224.pdf , page
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [152<./programas-disciplinas/9-Nono-Periodo/PRO224.pdf><./programas-disciplinas
 /9-Nono-Periodo/PRO224.pdf>]
-<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2297, 597.23125pt x 845.15
+<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2311, 597.23125pt x 845.15
 75pt>
 File: programas-disciplinas/9-Nono-Periodo/MIN107.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MIN107.pdf>
@@ -7147,7 +7147,7 @@ File: programas-disciplinas/9-Nono-Periodo/MIN107.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MIN107.pdf  used 
 on input line 1890.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2300, page=1, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2314, page=1, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/MIN107.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MIN107.pdf, page 1>
@@ -7169,7 +7169,7 @@ File: programas-disciplinas/9-Nono-Periodo/MIN107.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MIN107.pdf , page
 1 used on input line 1890.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2301, page=2, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/MIN107.pdf, id=2315, page=2, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/MIN107.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MIN107.pdf, page 2>
@@ -7193,7 +7193,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MIN107.pdf , page
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [153<./programas-disciplinas/9-Nono-Periodo/MIN107.pdf><./programas-disciplinas
 /9-Nono-Periodo/MIN107.pdf>]
-<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2327, 597.23125pt x 845.15
+<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2341, 597.23125pt x 845.15
 75pt>
 File: programas-disciplinas/9-Nono-Periodo/MET702.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MET702.pdf>
@@ -7205,7 +7205,7 @@ File: programas-disciplinas/9-Nono-Periodo/MET702.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MET702.pdf  used 
 on input line 1891.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2330, page=1, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2344, page=1, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/MET702.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MET702.pdf, page 1>
@@ -7227,7 +7227,7 @@ File: programas-disciplinas/9-Nono-Periodo/MET702.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MET702.pdf , page
 1 used on input line 1891.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2331, page=2, 597.23125pt 
+<programas-disciplinas/9-Nono-Periodo/MET702.pdf, id=2345, page=2, 597.23125pt 
 x 845.1575pt>
 File: programas-disciplinas/9-Nono-Periodo/MET702.pdf Graphic file (type pdf)
 <use programas-disciplinas/9-Nono-Periodo/MET702.pdf, page 2>
@@ -7251,7 +7251,7 @@ Package luatex.def Info: programas-disciplinas/9-Nono-Periodo/MET702.pdf , page
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [154<./programas-disciplinas/9-Nono-Periodo/MET702.pdf><./programas-disciplinas
 /9-Nono-Periodo/MET702.pdf>]
-<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2357, 597.23125pt x 845
+<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2371, 597.23125pt x 845
 .1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf Graphic file (type pdf
 )
@@ -7265,7 +7265,7 @@ File: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf  us
 ed on input line 1895.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2360, page=1, 597.23125
+<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2374, page=1, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf Graphic file (type pdf
 )
@@ -7291,7 +7291,7 @@ File: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf , p
 age1 used on input line 1895.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2361, page=2, 597.23125
+<programas-disciplinas/10-Decimo-Periodo/CAT491.pdf, id=2375, page=2, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/CAT491.pdf Graphic file (type pdf
 )
@@ -7319,7 +7319,7 @@ age2 used on input line 1895.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [155<./programas-disciplinas/10-Decimo-Periodo/CAT491.pdf><./programas-discipli
 nas/10-Decimo-Periodo/CAT491.pdf>]
-<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2387, 597.23125pt x 845
+<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2401, 597.23125pt x 845
 .1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf Graphic file (type pdf
 )
@@ -7333,7 +7333,7 @@ File: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf  us
 ed on input line 1896.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2390, page=1, 597.23125
+<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2404, page=1, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf Graphic file (type pdf
 )
@@ -7359,7 +7359,7 @@ File: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf , p
 age1 used on input line 1896.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2391, page=2, 597.23125
+<programas-disciplinas/10-Decimo-Periodo/PRO243.pdf, id=2405, page=2, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/PRO243.pdf Graphic file (type pdf
 )
@@ -7387,7 +7387,7 @@ age2 used on input line 1896.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [156<./programas-disciplinas/10-Decimo-Periodo/PRO243.pdf><./programas-discipli
 nas/10-Decimo-Periodo/PRO243.pdf>]
-<programas-disciplinas/10-Decimo-Periodo/PRO215.pdf, id=2417, 597.23125pt x 845
+<programas-disciplinas/10-Decimo-Periodo/PRO215.pdf, id=2431, 597.23125pt x 845
 .1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/PRO215.pdf Graphic file (type pdf
 )
@@ -7401,7 +7401,7 @@ File: programas-disciplinas/10-Decimo-Periodo/PRO215.pdf Graphic file (type pdf
 Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/PRO215.pdf  us
 ed on input line 1897.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/10-Decimo-Periodo/PRO215.pdf, id=2420, page=1, 597.23125
+<programas-disciplinas/10-Decimo-Periodo/PRO215.pdf, id=2434, page=1, 597.23125
 pt x 845.1575pt>
 File: programas-disciplinas/10-Decimo-Periodo/PRO215.pdf Graphic file (type pdf
 )
@@ -7446,7 +7446,7 @@ Package luatex.def Info: programas-disciplinas/10-Decimo-Periodo/PRO215.pdf , p
 age1 used on input line 1897.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [157<./programas-disciplinas/10-Decimo-Periodo/PRO215.pdf>]
-<programas-disciplinas/Eletivas/XXX016.pdf, id=2446, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX016.pdf, id=2460, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX016.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX016.pdf>
@@ -7458,7 +7458,7 @@ File: programas-disciplinas/Eletivas/XXX016.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX016.pdf  used on inp
 ut line 1900.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/Eletivas/XXX016.pdf, id=2449, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX016.pdf, id=2463, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX016.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX016.pdf, page 1>
@@ -7496,7 +7496,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX016.pdf , page1 used
  on input line 1900.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
  [158<./programas-disciplinas/Eletivas/XXX016.pdf>]
-<programas-disciplinas/Eletivas/XXX017.pdf, id=2478, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX017.pdf, id=2493, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX017.pdf>
@@ -7508,7 +7508,7 @@ File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX017.pdf  used on inp
 ut line 1901.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/Eletivas/XXX017.pdf, id=2481, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX017.pdf, id=2496, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX017.pdf, page 1>
@@ -7530,7 +7530,7 @@ File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX017.pdf , page1 used
  on input line 1901.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
-<programas-disciplinas/Eletivas/XXX017.pdf, id=2482, page=2, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX017.pdf, id=2497, page=2, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX017.pdf, page 2>
@@ -7554,7 +7554,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX017.pdf , page2 used
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
  [159<./programas-disciplinas/Eletivas/XXX017.pdf><./programas-disciplinas/Eleti
 vas/XXX017.pdf>]
-<programas-disciplinas/Eletivas/XXX017.pdf, id=2517, page=3, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX017.pdf, id=2531, page=3, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX017.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX017.pdf, page 3>
@@ -7582,7 +7582,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX017.pdf , page3 used
  on input line 1901.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
  [160<./programas-disciplinas/Eletivas/XXX017.pdf>]
-<programas-disciplinas/Eletivas/XXX018.pdf, id=2523, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX018.pdf, id=2537, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX018.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX018.pdf>
@@ -7594,7 +7594,7 @@ File: programas-disciplinas/Eletivas/XXX018.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX018.pdf  used on inp
 ut line 1902.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/Eletivas/XXX018.pdf, id=2526, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX018.pdf, id=2540, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX018.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX018.pdf, page 1>
@@ -7634,7 +7634,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX018.pdf , page1 used
  [161<./programas-disciplinas/Eletivas/XXX018.pdf>]
 warning  (file programas-disciplinas/Eletivas/XXX019.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX019.pdf, id=2555, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX019.pdf, id=2569, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX019.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX019.pdf>
@@ -7655,7 +7655,7 @@ nclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/Eletivas/XXX019.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX019.pdf, id=2558, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX019.pdf, id=2572, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX019.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX019.pdf, page 1>
@@ -7680,7 +7680,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX019.pdf , page1 used
 
 warning  (file programas-disciplinas/Eletivas/XXX019.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX019.pdf, id=2559, page=2, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX019.pdf, id=2573, page=2, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX019.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX019.pdf, page 2>
@@ -7706,7 +7706,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX019.pdf , page2 used
 as/XXX019.pdf>]
 warning  (file programas-disciplinas/Eletivas/XXX019.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX019.pdf, id=2583, page=3, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX019.pdf, id=2597, page=3, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX019.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX019.pdf, page 3>
@@ -7734,7 +7734,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX019.pdf , page3 used
  on input line 1903.
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [163<./programas-disciplinas/Eletivas/XXX019.pdf>]
-<programas-disciplinas/Eletivas/XXX020.pdf, id=2588, 598.235pt x 845.1575pt>
+<programas-disciplinas/Eletivas/XXX020.pdf, id=2602, 598.235pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/XXX020.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX020.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX020.pdf  used on inp
@@ -7745,7 +7745,7 @@ File: programas-disciplinas/Eletivas/XXX020.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX020.pdf  used on inp
 ut line 1904.
 (luatex.def)             Requested size: 598.23354pt x 845.15544pt.
-<programas-disciplinas/Eletivas/XXX020.pdf, id=2591, page=1, 598.235pt x 845.15
+<programas-disciplinas/Eletivas/XXX020.pdf, id=2605, page=1, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/Eletivas/XXX020.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX020.pdf, page 1>
@@ -7767,7 +7767,7 @@ File: programas-disciplinas/Eletivas/XXX020.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX020.pdf , page1 used
  on input line 1904.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
-<programas-disciplinas/Eletivas/XXX020.pdf, id=2592, page=2, 598.235pt x 845.15
+<programas-disciplinas/Eletivas/XXX020.pdf, id=2606, page=2, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/Eletivas/XXX020.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX020.pdf, page 2>
@@ -7793,7 +7793,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX020.pdf , page2 used
 vas/XXX020.pdf>]
 warning  (file programas-disciplinas/Eletivas/XXX021.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX021.pdf, id=2612, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX021.pdf, id=2626, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX021.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX021.pdf>
@@ -7814,7 +7814,7 @@ nclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/Eletivas/XXX021.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX021.pdf, id=2615, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX021.pdf, id=2629, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX021.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX021.pdf, page 1>
@@ -7839,7 +7839,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX021.pdf , page1 used
 
 warning  (file programas-disciplinas/Eletivas/XXX021.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX021.pdf, id=2616, page=2, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX021.pdf, id=2630, page=2, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX021.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX021.pdf, page 2>
@@ -7863,7 +7863,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX021.pdf , page2 used
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [165<./programas-disciplinas/Eletivas/XXX021.pdf><./programas-disciplinas/Eletiv
 as/XXX021.pdf>]
-<programas-disciplinas/Eletivas/XXX022.pdf, id=2639, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX022.pdf, id=2653, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX022.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX022.pdf>
@@ -7875,7 +7875,7 @@ File: programas-disciplinas/Eletivas/XXX022.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX022.pdf  used on inp
 ut line 1906.
 (luatex.def)             Requested size: 597.53487pt x 845.04478pt.
-<programas-disciplinas/Eletivas/XXX022.pdf, id=2642, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX022.pdf, id=2656, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX022.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX022.pdf, page 1>
@@ -7915,7 +7915,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX022.pdf , page1 used
  [166<./programas-disciplinas/Eletivas/XXX022.pdf>]
 warning  (file programas-disciplinas/Eletivas/CAT342.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/CAT342.pdf, id=2666, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/CAT342.pdf, id=2681, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/CAT342.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT342.pdf>
@@ -7936,7 +7936,7 @@ nclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/Eletivas/CAT342.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/CAT342.pdf, id=2669, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/CAT342.pdf, id=2684, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/CAT342.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT342.pdf, page 1>
@@ -7961,7 +7961,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CAT342.pdf , page1 used
 
 warning  (file programas-disciplinas/Eletivas/CAT342.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/CAT342.pdf, id=2670, page=2, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/CAT342.pdf, id=2685, page=2, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/CAT342.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT342.pdf, page 2>
@@ -7985,7 +7985,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CAT342.pdf , page2 used
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [167<./programas-disciplinas/Eletivas/CAT342.pdf><./programas-disciplinas/Eletiv
 as/CAT342.pdf>]
-<programas-disciplinas/Eletivas/CAT334.pdf, id=2700, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/CAT334.pdf, id=2714, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/CAT334.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT334.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT334.pdf  used on inp
@@ -7996,7 +7996,7 @@ File: programas-disciplinas/Eletivas/CAT334.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT334.pdf  used on inp
 ut line 1908.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/CAT334.pdf, id=2703, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CAT334.pdf, id=2717, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CAT334.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT334.pdf, page 1>
@@ -8034,7 +8034,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CAT334.pdf , page1 used
  on input line 1908.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [168<./programas-disciplinas/Eletivas/CAT334.pdf>]
-<programas-disciplinas/Eletivas/CAT341.pdf, id=2729, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/CAT341.pdf, id=2743, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/CAT341.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT341.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT341.pdf  used on inp
@@ -8045,7 +8045,7 @@ File: programas-disciplinas/Eletivas/CAT341.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT341.pdf  used on inp
 ut line 1909.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/CAT341.pdf, id=2732, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CAT341.pdf, id=2746, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CAT341.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT341.pdf, page 1>
@@ -8067,7 +8067,7 @@ File: programas-disciplinas/Eletivas/CAT341.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT341.pdf , page1 used
  on input line 1909.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/CAT341.pdf, id=2733, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CAT341.pdf, id=2747, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CAT341.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT341.pdf, page 2>
@@ -8091,7 +8091,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CAT341.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [169<./programas-disciplinas/Eletivas/CAT341.pdf><./programas-disciplinas/Eleti
 vas/CAT341.pdf>]
-<programas-disciplinas/Eletivas/XXX024.pdf, id=2759, 598.235pt x 845.1575pt>
+<programas-disciplinas/Eletivas/XXX024.pdf, id=2773, 598.235pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/XXX024.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX024.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX024.pdf  used on inp
@@ -8102,7 +8102,7 @@ File: programas-disciplinas/Eletivas/XXX024.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX024.pdf  used on inp
 ut line 1910.
 (luatex.def)             Requested size: 598.23354pt x 845.15544pt.
-<programas-disciplinas/Eletivas/XXX024.pdf, id=2762, page=1, 598.235pt x 845.15
+<programas-disciplinas/Eletivas/XXX024.pdf, id=2776, page=1, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/Eletivas/XXX024.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX024.pdf, page 1>
@@ -8140,7 +8140,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX024.pdf , page1 used
  on input line 1910.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
  [170<./programas-disciplinas/Eletivas/XXX024.pdf>]
-<programas-disciplinas/Eletivas/CAT601.pdf, id=2810, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/CAT601.pdf, id=2824, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/CAT601.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT601.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT601.pdf  used on inp
@@ -8151,7 +8151,7 @@ File: programas-disciplinas/Eletivas/CAT601.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CAT601.pdf  used on inp
 ut line 1911.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/CAT601.pdf, id=2813, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CAT601.pdf, id=2827, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CAT601.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CAT601.pdf, page 1>
@@ -8191,7 +8191,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CAT601.pdf , page1 used
  [171<./programas-disciplinas/Eletivas/CAT601.pdf>]
 warning  (file programas-disciplinas/Eletivas/XXX030.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX030.pdf, id=2846, 597.53633pt x 845.04684pt>
+<programas-disciplinas/Eletivas/XXX030.pdf, id=2860, 597.53633pt x 845.04684pt>
 
 File: programas-disciplinas/Eletivas/XXX030.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX030.pdf>
@@ -8212,7 +8212,7 @@ nclusion: found PDF version '1.6', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/Eletivas/XXX030.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX030.pdf, id=2849, page=1, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX030.pdf, id=2863, page=1, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX030.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX030.pdf, page 1>
@@ -8237,7 +8237,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX030.pdf , page1 used
 
 warning  (file programas-disciplinas/Eletivas/XXX030.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.6', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/XXX030.pdf, id=2850, page=2, 597.53633pt x 845.
+<programas-disciplinas/Eletivas/XXX030.pdf, id=2864, page=2, 597.53633pt x 845.
 04684pt>
 File: programas-disciplinas/Eletivas/XXX030.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX030.pdf, page 2>
@@ -8261,7 +8261,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX030.pdf , page2 used
 (luatex.def)             Requested size: 298.16566pt x 421.67136pt.
 [172<./programas-disciplinas/Eletivas/XXX030.pdf><./programas-disciplinas/Eletiv
 as/XXX030.pdf>]
-<programas-disciplinas/Eletivas/BCC408.pdf, id=2884, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC408.pdf, id=2898, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC408.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC408.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC408.pdf  used on inp
@@ -8272,7 +8272,7 @@ File: programas-disciplinas/Eletivas/BCC408.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC408.pdf  used on inp
 ut line 1913.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC408.pdf, id=2887, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC408.pdf, id=2901, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC408.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC408.pdf, page 1>
@@ -8294,7 +8294,7 @@ File: programas-disciplinas/Eletivas/BCC408.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC408.pdf , page1 used
  on input line 1913.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC408.pdf, id=2888, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC408.pdf, id=2902, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC408.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC408.pdf, page 2>
@@ -8318,7 +8318,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC408.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [173<./programas-disciplinas/Eletivas/BCC408.pdf><./programas-disciplinas/Eleti
 vas/BCC408.pdf>]
-<programas-disciplinas/Eletivas/BCC406.pdf, id=2914, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC406.pdf, id=2928, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC406.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC406.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC406.pdf  used on inp
@@ -8329,7 +8329,7 @@ File: programas-disciplinas/Eletivas/BCC406.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC406.pdf  used on inp
 ut line 1914.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC406.pdf, id=2917, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC406.pdf, id=2931, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC406.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC406.pdf, page 1>
@@ -8351,7 +8351,7 @@ File: programas-disciplinas/Eletivas/BCC406.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC406.pdf , page1 used
  on input line 1914.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC406.pdf, id=2918, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC406.pdf, id=2932, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC406.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC406.pdf, page 2>
@@ -8375,7 +8375,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC406.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [174<./programas-disciplinas/Eletivas/BCC406.pdf><./programas-disciplinas/Eleti
 vas/BCC406.pdf>]
-<programas-disciplinas/Eletivas/BCC264.pdf, id=2944, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC264.pdf, id=2958, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC264.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC264.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC264.pdf  used on inp
@@ -8386,7 +8386,7 @@ File: programas-disciplinas/Eletivas/BCC264.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC264.pdf  used on inp
 ut line 1915.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC264.pdf, id=2947, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC264.pdf, id=2961, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC264.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC264.pdf, page 1>
@@ -8408,7 +8408,7 @@ File: programas-disciplinas/Eletivas/BCC264.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC264.pdf , page1 used
  on input line 1915.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC264.pdf, id=2948, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC264.pdf, id=2962, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC264.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC264.pdf, page 2>
@@ -8432,7 +8432,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC264.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [175<./programas-disciplinas/Eletivas/BCC264.pdf><./programas-disciplinas/Eleti
 vas/BCC264.pdf>]
-<programas-disciplinas/Eletivas/BCC321.pdf, id=2974, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC321.pdf, id=2988, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC321.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC321.pdf  used on inp
@@ -8443,7 +8443,7 @@ File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC321.pdf  used on inp
 ut line 1916.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC321.pdf, id=2977, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC321.pdf, id=2991, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC321.pdf, page 1>
@@ -8465,7 +8465,7 @@ File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC321.pdf , page1 used
  on input line 1916.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC321.pdf, id=2978, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC321.pdf, id=2992, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC321.pdf, page 2>
@@ -8489,7 +8489,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC321.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [176<./programas-disciplinas/Eletivas/BCC321.pdf><./programas-disciplinas/Eleti
 vas/BCC321.pdf>]
-<programas-disciplinas/Eletivas/BCC321.pdf, id=3004, page=3, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC321.pdf, id=3018, page=3, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC321.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC321.pdf, page 3>
@@ -8517,7 +8517,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC321.pdf , page3 used
  on input line 1916.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [177<./programas-disciplinas/Eletivas/BCC321.pdf>]
-<programas-disciplinas/Eletivas/BCC326.pdf, id=3009, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC326.pdf, id=3023, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC326.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC326.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC326.pdf  used on inp
@@ -8528,7 +8528,7 @@ File: programas-disciplinas/Eletivas/BCC326.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC326.pdf  used on inp
 ut line 1917.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC326.pdf, id=3012, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC326.pdf, id=3026, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC326.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC326.pdf, page 1>
@@ -8550,7 +8550,7 @@ File: programas-disciplinas/Eletivas/BCC326.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC326.pdf , page1 used
  on input line 1917.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC326.pdf, id=3013, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC326.pdf, id=3027, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC326.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC326.pdf, page 2>
@@ -8574,7 +8574,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC326.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [178<./programas-disciplinas/Eletivas/BCC326.pdf><./programas-disciplinas/Eleti
 vas/BCC326.pdf>]
-<programas-disciplinas/Eletivas/BCC362.pdf, id=3039, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC362.pdf, id=3053, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC362.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC362.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC362.pdf  used on inp
@@ -8585,7 +8585,7 @@ File: programas-disciplinas/Eletivas/BCC362.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC362.pdf  used on inp
 ut line 1918.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC362.pdf, id=3042, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC362.pdf, id=3056, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC362.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC362.pdf, page 1>
@@ -8607,7 +8607,7 @@ File: programas-disciplinas/Eletivas/BCC362.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC362.pdf , page1 used
  on input line 1918.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC362.pdf, id=3043, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC362.pdf, id=3057, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC362.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC362.pdf, page 2>
@@ -8632,7 +8632,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC362.pdf , page2 used
 
 [179<./programas-disciplinas/Eletivas/BCC362.pdf><./programas-disciplinas/Eletiv
 as/BCC362.pdf>]
-<programas-disciplinas/Eletivas/BCC503.pdf, id=3069, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC503.pdf, id=3083, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC503.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC503.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC503.pdf  used on inp
@@ -8643,7 +8643,7 @@ File: programas-disciplinas/Eletivas/BCC503.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC503.pdf  used on inp
 ut line 1919.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC503.pdf, id=3072, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC503.pdf, id=3086, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC503.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC503.pdf, page 1>
@@ -8665,7 +8665,7 @@ File: programas-disciplinas/Eletivas/BCC503.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC503.pdf , page1 used
  on input line 1919.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC503.pdf, id=3073, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC503.pdf, id=3087, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC503.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC503.pdf, page 2>
@@ -8689,7 +8689,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC503.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [180<./programas-disciplinas/Eletivas/BCC503.pdf><./programas-disciplinas/Eleti
 vas/BCC503.pdf>]
-<programas-disciplinas/Eletivas/BCC221.pdf, id=3101, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC221.pdf, id=3115, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC221.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC221.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC221.pdf  used on inp
@@ -8700,7 +8700,7 @@ File: programas-disciplinas/Eletivas/BCC221.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC221.pdf  used on inp
 ut line 1920.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC221.pdf, id=3104, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC221.pdf, id=3118, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC221.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC221.pdf, page 1>
@@ -8722,7 +8722,7 @@ File: programas-disciplinas/Eletivas/BCC221.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC221.pdf , page1 used
  on input line 1920.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC221.pdf, id=3105, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC221.pdf, id=3119, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC221.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC221.pdf, page 2>
@@ -8746,7 +8746,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC221.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [181<./programas-disciplinas/Eletivas/BCC221.pdf><./programas-disciplinas/Eleti
 vas/BCC221.pdf>]
-<programas-disciplinas/Eletivas/BCC263.pdf, id=3131, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/BCC263.pdf, id=3145, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/BCC263.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC263.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC263.pdf  used on inp
@@ -8757,7 +8757,7 @@ File: programas-disciplinas/Eletivas/BCC263.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC263.pdf  used on inp
 ut line 1921.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/BCC263.pdf, id=3134, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC263.pdf, id=3148, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC263.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC263.pdf, page 1>
@@ -8779,7 +8779,7 @@ File: programas-disciplinas/Eletivas/BCC263.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/BCC263.pdf , page1 used
  on input line 1921.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/BCC263.pdf, id=3135, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/BCC263.pdf, id=3149, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/BCC263.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/BCC263.pdf, page 2>
@@ -8803,7 +8803,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/BCC263.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [182<./programas-disciplinas/Eletivas/BCC263.pdf><./programas-disciplinas/Eleti
 vas/BCC263.pdf>]
-<programas-disciplinas/Eletivas/CSO010.pdf, id=3161, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/CSO010.pdf, id=3175, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/CSO010.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CSO010.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/CSO010.pdf  used on inp
@@ -8814,7 +8814,7 @@ File: programas-disciplinas/Eletivas/CSO010.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CSO010.pdf  used on inp
 ut line 1922.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/CSO010.pdf, id=3164, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CSO010.pdf, id=3178, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CSO010.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CSO010.pdf, page 1>
@@ -8836,7 +8836,7 @@ File: programas-disciplinas/Eletivas/CSO010.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/CSO010.pdf , page1 used
  on input line 1922.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/CSO010.pdf, id=3165, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/CSO010.pdf, id=3179, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/CSO010.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/CSO010.pdf, page 2>
@@ -8860,7 +8860,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/CSO010.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [183<./programas-disciplinas/Eletivas/CSO010.pdf><./programas-disciplinas/Eleti
 vas/CSO010.pdf>]
-<programas-disciplinas/Eletivas/FIL652.pdf, id=3191, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/FIL652.pdf, id=3205, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/FIL652.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/FIL652.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/FIL652.pdf  used on inp
@@ -8871,7 +8871,7 @@ File: programas-disciplinas/Eletivas/FIL652.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/FIL652.pdf  used on inp
 ut line 1923.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/FIL652.pdf, id=3194, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/FIL652.pdf, id=3208, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/FIL652.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/FIL652.pdf, page 1>
@@ -8909,7 +8909,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/FIL652.pdf , page1 used
  on input line 1923.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [184<./programas-disciplinas/Eletivas/FIL652.pdf>]
-<programas-disciplinas/Eletivas/LET041.pdf, id=3220, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/LET041.pdf, id=3234, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/LET041.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/LET041.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/LET041.pdf  used on inp
@@ -8920,7 +8920,7 @@ File: programas-disciplinas/Eletivas/LET041.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/LET041.pdf  used on inp
 ut line 1924.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/LET041.pdf, id=3223, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/LET041.pdf, id=3237, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/LET041.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/LET041.pdf, page 1>
@@ -8942,7 +8942,7 @@ File: programas-disciplinas/Eletivas/LET041.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/LET041.pdf , page1 used
  on input line 1924.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/LET041.pdf, id=3224, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/LET041.pdf, id=3238, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/LET041.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/LET041.pdf, page 2>
@@ -8966,7 +8966,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/LET041.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [185<./programas-disciplinas/Eletivas/LET041.pdf><./programas-disciplinas/Eleti
 vas/LET041.pdf>]
-<programas-disciplinas/Eletivas/MEC104.pdf, id=3250, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/MEC104.pdf, id=3264, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/MEC104.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC104.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC104.pdf  used on inp
@@ -8977,7 +8977,7 @@ File: programas-disciplinas/Eletivas/MEC104.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC104.pdf  used on inp
 ut line 1925.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/MEC104.pdf, id=3253, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/MEC104.pdf, id=3267, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/MEC104.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC104.pdf, page 1>
@@ -8999,7 +8999,7 @@ File: programas-disciplinas/Eletivas/MEC104.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC104.pdf , page1 used
  on input line 1925.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/MEC104.pdf, id=3254, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/MEC104.pdf, id=3268, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/MEC104.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC104.pdf, page 2>
@@ -9024,7 +9024,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/MEC104.pdf , page2 used
 
 [186<./programas-disciplinas/Eletivas/MEC104.pdf><./programas-disciplinas/Eletiv
 as/MEC104.pdf>]
-<programas-disciplinas/Eletivas/MEC108.pdf, id=3280, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/MEC108.pdf, id=3294, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/MEC108.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC108.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC108.pdf  used on inp
@@ -9035,7 +9035,7 @@ File: programas-disciplinas/Eletivas/MEC108.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC108.pdf  used on inp
 ut line 1926.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/MEC108.pdf, id=3283, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/MEC108.pdf, id=3297, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/MEC108.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC108.pdf, page 1>
@@ -9057,7 +9057,7 @@ File: programas-disciplinas/Eletivas/MEC108.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/MEC108.pdf , page1 used
  on input line 1926.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/MEC108.pdf, id=3284, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/MEC108.pdf, id=3298, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/MEC108.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/MEC108.pdf, page 2>
@@ -9081,7 +9081,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/MEC108.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [187<./programas-disciplinas/Eletivas/MEC108.pdf><./programas-disciplinas/Eleti
 vas/MEC108.pdf>]
-<programas-disciplinas/Eletivas/PRO302.pdf, id=3310, 597.23125pt x 845.1575pt>
+<programas-disciplinas/Eletivas/PRO302.pdf, id=3324, 597.23125pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/PRO302.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO302.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO302.pdf  used on inp
@@ -9092,7 +9092,7 @@ File: programas-disciplinas/Eletivas/PRO302.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO302.pdf  used on inp
 ut line 1927.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<programas-disciplinas/Eletivas/PRO302.pdf, id=3313, page=1, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/PRO302.pdf, id=3327, page=1, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/PRO302.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO302.pdf, page 1>
@@ -9114,7 +9114,7 @@ File: programas-disciplinas/Eletivas/PRO302.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO302.pdf , page1 used
  on input line 1927.
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
-<programas-disciplinas/Eletivas/PRO302.pdf, id=3314, page=2, 597.23125pt x 845.
+<programas-disciplinas/Eletivas/PRO302.pdf, id=3328, page=2, 597.23125pt x 845.
 1575pt>
 File: programas-disciplinas/Eletivas/PRO302.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO302.pdf, page 2>
@@ -9138,7 +9138,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/PRO302.pdf , page2 used
 (luatex.def)             Requested size: 298.26859pt x 422.08766pt.
  [188<./programas-disciplinas/Eletivas/PRO302.pdf><./programas-disciplinas/Eleti
 vas/PRO302.pdf>]
-<programas-disciplinas/Eletivas/PRO706.pdf, id=3341, 598.235pt x 845.1575pt>
+<programas-disciplinas/Eletivas/PRO706.pdf, id=3355, 598.235pt x 845.1575pt>
 File: programas-disciplinas/Eletivas/PRO706.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO706.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO706.pdf  used on inp
@@ -9149,7 +9149,7 @@ File: programas-disciplinas/Eletivas/PRO706.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO706.pdf  used on inp
 ut line 1928.
 (luatex.def)             Requested size: 598.23354pt x 845.15544pt.
-<programas-disciplinas/Eletivas/PRO706.pdf, id=3344, page=1, 598.235pt x 845.15
+<programas-disciplinas/Eletivas/PRO706.pdf, id=3358, page=1, 598.235pt x 845.15
 75pt>
 File: programas-disciplinas/Eletivas/PRO706.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO706.pdf, page 1>
@@ -9187,7 +9187,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/PRO706.pdf , page1 used
  on input line 1928.
 (luatex.def)             Requested size: 298.26782pt x 421.37839pt.
  [189<./programas-disciplinas/Eletivas/PRO706.pdf>]
-<programas-disciplinas/Eletivas/XXX031.pdf, id=3369, 597.55244pt x 845.0772pt>
+<programas-disciplinas/Eletivas/XXX031.pdf, id=3383, 597.55244pt x 845.0772pt>
 File: programas-disciplinas/Eletivas/XXX031.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX031.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX031.pdf  used on inp
@@ -9198,7 +9198,7 @@ File: programas-disciplinas/Eletivas/XXX031.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX031.pdf  used on inp
 ut line 1929.
 (luatex.def)             Requested size: 597.55098pt x 845.07513pt.
-<programas-disciplinas/Eletivas/XXX031.pdf, id=3372, page=1, 597.55244pt x 845.
+<programas-disciplinas/Eletivas/XXX031.pdf, id=3386, page=1, 597.55244pt x 845.
 0772pt>
 File: programas-disciplinas/Eletivas/XXX031.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX031.pdf, page 1>
@@ -9220,7 +9220,7 @@ File: programas-disciplinas/Eletivas/XXX031.pdf Graphic file (type pdf)
 Package luatex.def Info: programas-disciplinas/Eletivas/XXX031.pdf , page1 used
  on input line 1929.
 (luatex.def)             Requested size: 298.1737pt x 421.68651pt.
-<programas-disciplinas/Eletivas/XXX031.pdf, id=3373, page=2, 597.55244pt x 845.
+<programas-disciplinas/Eletivas/XXX031.pdf, id=3387, page=2, 597.55244pt x 845.
 0772pt>
 File: programas-disciplinas/Eletivas/XXX031.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/XXX031.pdf, page 2>
@@ -9246,7 +9246,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/XXX031.pdf , page2 used
 vas/XXX031.pdf>]
 warning  (file programas-disciplinas/Eletivas/PRO725.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/PRO725.pdf, id=3402, 614.295pt x 794.97pt>
+<programas-disciplinas/Eletivas/PRO725.pdf, id=3416, 614.295pt x 794.97pt>
 File: programas-disciplinas/Eletivas/PRO725.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO725.pdf>
 Package luatex.def Info: programas-disciplinas/Eletivas/PRO725.pdf  used on inp
@@ -9266,7 +9266,7 @@ nclusion: found PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file programas-disciplinas/Eletivas/PRO725.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/PRO725.pdf, id=3405, page=1, 614.295pt x 794.97
+<programas-disciplinas/Eletivas/PRO725.pdf, id=3419, page=1, 614.295pt x 794.97
 pt>
 File: programas-disciplinas/Eletivas/PRO725.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO725.pdf, page 1>
@@ -9291,7 +9291,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/PRO725.pdf , page1 used
 
 warning  (file programas-disciplinas/Eletivas/PRO725.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/PRO725.pdf, id=3406, page=2, 614.295pt x 794.97
+<programas-disciplinas/Eletivas/PRO725.pdf, id=3420, page=2, 614.295pt x 794.97
 pt>
 File: programas-disciplinas/Eletivas/PRO725.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO725.pdf, page 2>
@@ -9317,7 +9317,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/PRO725.pdf , page2 used
 as/PRO725.pdf>]
 warning  (file programas-disciplinas/Eletivas/PRO725.pdf) (pdf inclusion): PDF i
 nclusion: found PDF version '1.7', but at most version '1.5' allowed
-<programas-disciplinas/Eletivas/PRO725.pdf, id=3422, page=3, 614.295pt x 794.97
+<programas-disciplinas/Eletivas/PRO725.pdf, id=3436, page=3, 614.295pt x 794.97
 pt>
 File: programas-disciplinas/Eletivas/PRO725.pdf Graphic file (type pdf)
 <use programas-disciplinas/Eletivas/PRO725.pdf, page 3>
@@ -9347,7 +9347,7 @@ Package luatex.def Info: programas-disciplinas/Eletivas/PRO725.pdf , page3 used
 [192<./programas-disciplinas/Eletivas/PRO725.pdf>]
 warning  (file resolucoes/CECAU01.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU01.pdf, id=3427, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU01.pdf, id=3441, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU01.pdf Graphic file (type pdf)
 <use resolucoes/CECAU01.pdf>
 Package luatex.def Info: resolucoes/CECAU01.pdf  used on input line 1933.
@@ -9365,7 +9365,7 @@ warning  (file resolucoes/CECAU01.pdf) (pdf inclusion): PDF inclusion: found PDF
 
 warning  (file resolucoes/CECAU01.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU01.pdf, id=3430, page=1, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU01.pdf, id=3444, page=1, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU01.pdf Graphic file (type pdf)
 <use resolucoes/CECAU01.pdf, page 1>
 Package luatex.def Info: resolucoes/CECAU01.pdf , page1 used on input line 1933
@@ -9397,7 +9397,7 @@ Package luatex.def Info: resolucoes/CECAU01.pdf , page1 used on input line 1933
  [194<./resolucoes/CECAU01.pdf>]
 warning  (file resolucoes/CECAU01.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU01.pdf, id=3447, page=2, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU01.pdf, id=3461, page=2, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU01.pdf Graphic file (type pdf)
 <use resolucoes/CECAU01.pdf, page 2>
 Package luatex.def Info: resolucoes/CECAU01.pdf , page2 used on input line 1933
@@ -9416,7 +9416,7 @@ Package luatex.def Info: resolucoes/CECAU01.pdf , page2 used on input line 1933
 [195<./resolucoes/CECAU01.pdf>]
 warning  (file resolucoes/CECAU01.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU01.pdf, id=3452, page=3, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU01.pdf, id=3466, page=3, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU01.pdf Graphic file (type pdf)
 <use resolucoes/CECAU01.pdf, page 3>
 Package luatex.def Info: resolucoes/CECAU01.pdf , page3 used on input line 1933
@@ -9435,7 +9435,7 @@ Package luatex.def Info: resolucoes/CECAU01.pdf , page3 used on input line 1933
 [196<./resolucoes/CECAU01.pdf>]
 warning  (file resolucoes/CECAU02.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU02.pdf, id=3457, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU02.pdf, id=3471, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU02.pdf Graphic file (type pdf)
 <use resolucoes/CECAU02.pdf>
 Package luatex.def Info: resolucoes/CECAU02.pdf  used on input line 1934.
@@ -9453,7 +9453,7 @@ warning  (file resolucoes/CECAU02.pdf) (pdf inclusion): PDF inclusion: found PDF
 
 warning  (file resolucoes/CECAU02.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU02.pdf, id=3460, page=1, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU02.pdf, id=3474, page=1, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU02.pdf Graphic file (type pdf)
 <use resolucoes/CECAU02.pdf, page 1>
 Package luatex.def Info: resolucoes/CECAU02.pdf , page1 used on input line 1934
@@ -9482,7 +9482,7 @@ Package luatex.def Info: resolucoes/CECAU02.pdf , page1 used on input line 1934
 [197<./resolucoes/CECAU02.pdf>]
 warning  (file resolucoes/CECAU02.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU02.pdf, id=3473, page=2, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU02.pdf, id=3487, page=2, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU02.pdf Graphic file (type pdf)
 <use resolucoes/CECAU02.pdf, page 2>
 Package luatex.def Info: resolucoes/CECAU02.pdf , page2 used on input line 1934
@@ -9501,7 +9501,7 @@ Package luatex.def Info: resolucoes/CECAU02.pdf , page2 used on input line 1934
 [198<./resolucoes/CECAU02.pdf>]
 warning  (file resolucoes/CECAU02.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU02.pdf, id=3478, page=3, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU02.pdf, id=3492, page=3, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU02.pdf Graphic file (type pdf)
 <use resolucoes/CECAU02.pdf, page 3>
 Package luatex.def Info: resolucoes/CECAU02.pdf , page3 used on input line 1934
@@ -9520,7 +9520,7 @@ Package luatex.def Info: resolucoes/CECAU02.pdf , page3 used on input line 1934
 [199<./resolucoes/CECAU02.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3491, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3506, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf>
 Package luatex.def Info: resolucoes/CECAU03.pdf  used on input line 1935.
@@ -9538,7 +9538,7 @@ warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
 
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3494, page=1, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3509, page=1, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 1>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page1 used on input line 1935
@@ -9567,7 +9567,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page1 used on input line 1935
 [200<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3521, page=2, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3535, page=2, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 2>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page2 used on input line 1935
@@ -9586,7 +9586,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page2 used on input line 1935
 [201<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3526, page=3, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3540, page=3, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 3>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page3 used on input line 1935
@@ -9605,7 +9605,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page3 used on input line 1935
 [202<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3537, page=4, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3551, page=4, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 4>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page4 used on input line 1935
@@ -9624,7 +9624,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page4 used on input line 1935
 [203<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3542, page=5, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3556, page=5, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 5>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page5 used on input line 1935
@@ -9643,7 +9643,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page5 used on input line 1935
 [204<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3547, page=6, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3561, page=6, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 6>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page6 used on input line 1935
@@ -9662,7 +9662,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page6 used on input line 1935
 [205<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3552, page=7, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3566, page=7, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 7>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page7 used on input line 1935
@@ -9681,7 +9681,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page7 used on input line 1935
 [206<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU03.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU03.pdf, id=3557, page=8, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU03.pdf, id=3571, page=8, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU03.pdf Graphic file (type pdf)
 <use resolucoes/CECAU03.pdf, page 8>
 Package luatex.def Info: resolucoes/CECAU03.pdf , page8 used on input line 1935
@@ -9700,7 +9700,7 @@ Package luatex.def Info: resolucoes/CECAU03.pdf , page8 used on input line 1935
 [207<./resolucoes/CECAU03.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3562, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3576, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf>
 Package luatex.def Info: resolucoes/CECAU04.pdf  used on input line 1936.
@@ -9718,7 +9718,7 @@ warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
 
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3565, page=1, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3579, page=1, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 1>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page1 used on input line 1936
@@ -9747,7 +9747,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page1 used on input line 1936
 [208<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3587, page=2, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3601, page=2, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 2>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page2 used on input line 1936
@@ -9766,7 +9766,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page2 used on input line 1936
 [209<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3607, page=3, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3621, page=3, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 3>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page3 used on input line 1936
@@ -9785,7 +9785,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page3 used on input line 1936
 [210<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3613, page=4, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3627, page=4, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 4>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page4 used on input line 1936
@@ -9804,7 +9804,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page4 used on input line 1936
 [211<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3618, page=5, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3632, page=5, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 5>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page5 used on input line 1936
@@ -9823,7 +9823,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page5 used on input line 1936
 [212<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3623, page=6, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3637, page=6, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 6>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page6 used on input line 1936
@@ -9842,7 +9842,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page6 used on input line 1936
 [213<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3628, page=7, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3642, page=7, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 7>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page7 used on input line 1936
@@ -9861,7 +9861,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page7 used on input line 1936
 [214<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3634, page=8, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3648, page=8, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 8>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page8 used on input line 1936
@@ -9880,7 +9880,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page8 used on input line 1936
 [215<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3640, page=9, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3654, page=9, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 9>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page9 used on input line 1936
@@ -9899,7 +9899,7 @@ Package luatex.def Info: resolucoes/CECAU04.pdf , page9 used on input line 1936
 [216<./resolucoes/CECAU04.pdf>]
 warning  (file resolucoes/CECAU04.pdf) (pdf inclusion): PDF inclusion: found PDF
  version '1.7', but at most version '1.5' allowed
-<resolucoes/CECAU04.pdf, id=3645, page=10, 597.55244pt x 845.0772pt>
+<resolucoes/CECAU04.pdf, id=3660, page=10, 597.55244pt x 845.0772pt>
 File: resolucoes/CECAU04.pdf Graphic file (type pdf)
 <use resolucoes/CECAU04.pdf, page 10>
 Package luatex.def Info: resolucoes/CECAU04.pdf , page10 used on input line 193
@@ -9963,10 +9963,10 @@ n10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf>
 onts/opentype/public/lm/lmsans17-regular.otf></usr/share/texmf/fonts/opentype/pu
 blic/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-
 regular.otf>
-Output written on PPC-ECA.pdf (218 pages, 30273642 bytes).
+Output written on PPC-ECA.pdf (218 pages, 30266452 bytes).
 
-PDF statistics: 3981 PDF objects out of 4296 (max. 8388607)
- 2417 compressed objects within 25 object streams
+PDF statistics: 3995 PDF objects out of 4296 (max. 8388607)
+ 2424 compressed objects within 25 object streams
  380 named destinations out of 1000 (max. 131072)
  577 words of extra memory for PDF output out of 10000 (max. 100000000)
 
