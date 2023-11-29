@@ -1,0 +1,61 @@
+Como instalar o pdftk e o PDF Chain para juntar e dividir arquivos PDF no Ubuntu e seus derivados
+
+Este site é mantido graças a exibição de publicidade. Se você usa um bloqueador de anúncios, por favor, considere colocar o Blog do Edivaldo na lista branca de seu aplicativo de bloqueio.
+
+Em contrapartida, o site nunca terá anúncios invasivos como pop-up e under.
+Obrigado por ajudar a manter este site!
+
+Para instalar o pdftk e o PDF Chain, você deve fazer o seguinte:
+Passo 1. Abra um terminal (no Unity use as teclas CTRL + ALT + T);
+Passo 2. Se caso o pdftk ainda não estiver instalado, instale-o com este comando:
+
+sudo apt-get install pdftk
+
+Passo 3. Para fazer o juntar arquivos PDF, utilize o comando conforme mostrado no exemplo abaixo, substituindo arquivox.pdf pelo nome dos arquivos que você quer unir, e arquivo_final.pdf, pelo nome de arquivo que você quer criar:
+
+pdftk arquivo1.pdf arquivo2.pdf output arquivo_final.pdf
+
+Passo 4. Agora para extrair páginas de um arquivo PDF, utilize o comando a seguir. Claro, substitua A1 pelo numero da página do arquivo PDF original. Por exemplo, se você quiser pegar a quinta página utilize A5. Se quiser um intervalo, como por exemplo da quarta até a sexta página, informe A4-6:
+
+pdftk A=arquivo.pdf cat A1 output pagina1.pdf
+
+Passo 5. Também é possível utilizar mais de um arquivo por vez e juntar em um único arquivo final, como no exemplo a seguir:
+
+pdftk A=arquivo1.pdf B=arquivo1.pdf cat A1-7 B2 output arquivo_final.pdf
+
+
+pdftk A=cuni414.pdf cat A1 output cuni414-1.pdf
+pdftk A=cuni414.pdf cat A2 output cuni414-2.pdf
+pdftk A=cuni414.pdf cat A3 output cuni414-3.pdf
+pdftk A=cuni414.pdf cat A4 output cuni414-4.pdf
+pdftk A=cuni414.pdf cat A5 output cuni414-5.pdf
+pdftk A=cuni414.pdf cat A6 output cuni414-6.pdf
+pdftk A=cuni414.pdf cat A7 output cuni414-7.pdf
+pdftk A=cuni414.pdf cat A8 output cuni414-8.pdf
+pdftk A=cuni414.pdf cat A9 output cuni414-9.pdf
+pdftk A=cuni414.pdf cat A10 output cuni414-10.pdf
+pdftk A=cuni414.pdf cat A11 output cuni414-11.pdf
+pdftk A=cuni414.pdf cat A12 output cuni414-12.pdf
+pdftk A=cuni414.pdf cat A13 output cuni414-13.pdf
+pdftk A=cuni414.pdf cat A14 output cuni414-14.pdf
+pdftk A=cuni414.pdf cat A15 output cuni414-15.pdf
+pdftk A=cuni414.pdf cat A16 output cuni414-16.pdf
+pdftk A=cuni414.pdf cat A17 output cuni414-17.pdf
+pdftk A=cuni414.pdf cat A18 output cuni414-18.pdf
+pdftk A=cuni414.pdf cat A19 output cuni414-19.pdf
+pdftk A=cuni414.pdf cat A20 output cuni414-20.pdf
+pdftk A=cuni414.pdf cat A21 output cuni414-21.pdf
+pdftk A=cuni414.pdf cat A22 output cuni414-22.pdf
+pdftk A=cuni414.pdf cat A23 output cuni414-23.pdf
+pdftk A=cuni414.pdf cat A24 output cuni414-24.pdf
+pdftk A=cuni414.pdf cat A25 output cuni414-25.pdf
+pdftk A=cuni414.pdf cat A26 output cuni414-26.pdf
+pdftk A=cuni414.pdf cat A27 output cuni414-27.pdf
+pdftk A=cuni414.pdf cat A28 output cuni414-28.pdf
+pdftk A=cuni414.pdf cat A29 output cuni414-29.pdf
+pdftk A=cuni414.pdf cat A30 output cuni414-30.pdf
+pdftk A=cuni414.pdf cat A31 output cuni414-31.pdf
+pdftk A=cuni414.pdf cat A32 output cuni414-32.pdf
+pdftk A=cuni414.pdf cat A33 output cuni414-33.pdf
+pdftk A=cuni414.pdf cat A34 output cuni414-34.pdf
+pdftk A=cuni414.pdf cat A35 output cuni414-35.pdf

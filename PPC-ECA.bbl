@@ -1,0 +1,606 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{CONEC-UFOP-19-2022}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=8dbbd04d036857135610f2747acd1040}{%
+           family={CONEC/UFOP},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Conselho Superior de Extensão e Cultura}%
+      }
+      \strng{namehash}{8dbbd04d036857135610f2747acd1040}
+      \strng{bibnamehash}{8dbbd04d036857135610f2747acd1040}
+      \strng{shortauthorbibnamehash}{8dbbd04d036857135610f2747acd1040}
+      \strng{shortauthornamehash}{8dbbd04d036857135610f2747acd1040}
+      \strng{shortauthorfullhash}{8dbbd04d036857135610f2747acd1040}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Resolução CONEC/UFOP Nº19/2022, Aprova as normas e os critérios para a utilização da carga horária de estágios não obrigatórios para a curricularização da Extensão Universitária na UFOP}
+      \field{month}{03}
+      \field{title}{Normas e critérios para a utilização da carga horária de estágios não obrigatórios para a curricularização da Extensão Universitária na UFOP}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.prograd.ufop.br/sites/default/files/resolucao_conec_19_extensao.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.prograd.ufop.br/sites/default/files/resolucao_conec_19_extensao.pdf
+      \endverb
+    \endentry
+    \entry{elmoresauer}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=272c2786cdaad5b905e5e02f67f934c7}{%
+           family={Filho},
+           familyi={F\bibinitperiod},
+           given={Elmôr},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfcf28d0734569a6a693bc8194de62bf}{%
+           family={G.},
+           familyi={G\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=dff41749fe282d97ab66d6e66b346525}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={L.Z.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6c0a2539e08f627af1b5f1133e27d30}{%
+           family={De\bibnamedelima Almeida},
+           familyi={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={N.N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6880cbb4e814e06d036a6d9ad202ba5e}{%
+           family={Villas-Boas},
+           familyi={V\bibinithyphendelim B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \list{publisher}{1}{%
+        {LTC}%
+      }
+      \strng{namehash}{efca37643297b46b9aff9428531d5c4c}
+      \strng{fullhash}{26fca49f5c431418aa9d597bf0e19975}
+      \strng{bibnamehash}{efca37643297b46b9aff9428531d5c4c}
+      \strng{authorbibnamehash}{efca37643297b46b9aff9428531d5c4c}
+      \strng{authornamehash}{efca37643297b46b9aff9428531d5c4c}
+      \strng{authorfullhash}{26fca49f5c431418aa9d597bf0e19975}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Uma Nova Sala de Aula é Possível.}
+      \field{year}{2019}
+    \endentry
+    \entry{forproex2012}{manual}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ea97de81fa985adc86e314fa7f38ed0}{%
+           family={FORPROEX},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manaus}%
+      }
+      \list{organization}{1}{%
+        {Fórum de pró-reitores de extensão das universidades públicas brasileiras}%
+      }
+      \strng{namehash}{1ea97de81fa985adc86e314fa7f38ed0}
+      \strng{bibnamehash}{1ea97de81fa985adc86e314fa7f38ed0}
+      \strng{shortauthorbibnamehash}{1ea97de81fa985adc86e314fa7f38ed0}
+      \strng{shortauthornamehash}{1ea97de81fa985adc86e314fa7f38ed0}
+      \strng{shortauthorfullhash}{1ea97de81fa985adc86e314fa7f38ed0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Política Nacional de Extensão Universitária}
+      \field{year}{2012}
+      \field{pages}{40}
+      \range{pages}{1}
+    \endentry
+    \entry{gaeta}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=17d9d93f6f6f93f56e76054181b2ed22}{%
+           family={Gaeta},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c5c00e80b650feffbb1f6bd1d5d338b}{%
+           family={Masetto},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {SENAC São Paulo}%
+      }
+      \strng{namehash}{ff33127847a5e414150097b4ec317191}
+      \strng{fullhash}{ff33127847a5e414150097b4ec317191}
+      \strng{bibnamehash}{ff33127847a5e414150097b4ec317191}
+      \strng{authorbibnamehash}{ff33127847a5e414150097b4ec317191}
+      \strng{authornamehash}{ff33127847a5e414150097b4ec317191}
+      \strng{authorfullhash}{ff33127847a5e414150097b4ec317191}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{O professor iniciante no ensino superior: aprender, atuar e inovar}
+      \field{year}{2013}
+    \endentry
+    \entry{guia-do-estudante}{supperiodical}{}
+      \list{publisher}{1}{%
+        {Editora Abril}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Engenharia de Controle e Automação}
+      \field{title}{Guia do estudante}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://guiadoestudante.abril.com.br/
+      \endverb
+      \verb{url}
+      \verb http://guiadoestudante.abril.com.br/
+      \endverb
+    \endentry
+    \entry{senso-inep}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=655ec8ebbaf88166351359e0fac85f58}{%
+           family={INEP-MEC},
+           familyi={I\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brasília}%
+      }
+      \list{organization}{1}{%
+        {Ministério da Educação. Instituto Nacional de Estudos e Pesquisas	Educacionais Anísio Teixeira – INEP}%
+      }
+      \strng{namehash}{655ec8ebbaf88166351359e0fac85f58}
+      \strng{bibnamehash}{655ec8ebbaf88166351359e0fac85f58}
+      \strng{shortauthorbibnamehash}{655ec8ebbaf88166351359e0fac85f58}
+      \strng{shortauthornamehash}{655ec8ebbaf88166351359e0fac85f58}
+      \strng{shortauthorfullhash}{655ec8ebbaf88166351359e0fac85f58}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{RESUMO TÉCNICO DO CENSO DA EDUCAÇÃO SUPERIOR 2020}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_da_educacao_superior_2020.pdf
+      \endverb
+      \verb{url}
+      \verb https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/resumo_tecnico_censo_da_educacao_superior_2020.pdf
+      \endverb
+    \endentry
+    \entry{oakley}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=45147821d830859a79cbc89629a383cb}{%
+           family={Oakley},
+           familyi={O\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=652fe831c9bbaa4622525f8a9b64fbb0}{%
+           family={Felder},
+           familyi={F\bibinitperiod},
+           given={R.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2a8efba664cb3aff3be7ebc468b4576}{%
+           family={Brent},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=467b37dedd405d89fcb1960c850e16ec}{%
+           family={Elhajj},
+           familyi={E\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38b865fd6e42696d225dec70e1e652d1}
+      \strng{fullhash}{f9731f1be2a133c2898ed60a6ff935b1}
+      \strng{bibnamehash}{38b865fd6e42696d225dec70e1e652d1}
+      \strng{authorbibnamehash}{38b865fd6e42696d225dec70e1e652d1}
+      \strng{authornamehash}{38b865fd6e42696d225dec70e1e652d1}
+      \strng{authorfullhash}{f9731f1be2a133c2898ed60a6ff935b1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of student centered learning}
+      \field{number}{1}
+      \field{title}{Turning student groups into effective teams}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{9\bibrangedash 34}
+      \range{pages}{26}
+    \endentry
+    \entry{guia-curricularizacao-2022}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=d599ce1947044f73c48302f88700f8b5}{%
+           family={PROEX-UFOP},
+           familyi={P\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Pró-Reitoria de Extensão - PROEX-UFOP}%
+      }
+      \strng{namehash}{d599ce1947044f73c48302f88700f8b5}
+      \strng{bibnamehash}{d599ce1947044f73c48302f88700f8b5}
+      \strng{shortauthorbibnamehash}{d599ce1947044f73c48302f88700f8b5}
+      \strng{shortauthornamehash}{d599ce1947044f73c48302f88700f8b5}
+      \strng{shortauthorfullhash}{d599ce1947044f73c48302f88700f8b5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{Guia de Curricularização da Extensão na UFOP}
+      \field{year}{2022}
+    \endentry
+    \entry{politica-eng-2022-ufop}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=462c80996487eeb728d49d234f1afcdc}{%
+           family={UFOP},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Subcâmara de Engenharias - UFOP}%
+      }
+      \strng{namehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{bibnamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthorbibnamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthornamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthorfullhash}{462c80996487eeb728d49d234f1afcdc}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{title}{Política Institucional de Formação para os Cursos de Engenharia da Universidade Federal de Ouro Preto}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://www.soc.ufop.br/public/resolucao/mostrar/0000012122
+      \endverb
+      \verb{url}
+      \verb http://www.soc.ufop.br/public/resolucao/mostrar/0000012122
+      \endverb
+    \endentry
+    \entry{manual-ppc-ufop}{manual}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=695b9704e48fbfe9599c251108060875}{%
+           family={NAP-UFOP},
+           familyi={N\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{695b9704e48fbfe9599c251108060875}
+      \strng{bibnamehash}{695b9704e48fbfe9599c251108060875}
+      \strng{shortauthorbibnamehash}{695b9704e48fbfe9599c251108060875}
+      \strng{shortauthornamehash}{695b9704e48fbfe9599c251108060875}
+      \strng{shortauthorfullhash}{695b9704e48fbfe9599c251108060875}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{DIRETRIZES PARA ELABORAÇÃO DE PROJETO PEDAGÓGICO DE CURSO-PPC}
+      \field{year}{2016}
+      \field{pages}{23}
+      \range{pages}{1}
+    \endentry
+    \entry{PDI-UFOP}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=9925b26e02bdf4b35aeff41f49a15085}{%
+           family={PDI-UFOP},
+           familyi={P\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{9925b26e02bdf4b35aeff41f49a15085}
+      \strng{bibnamehash}{9925b26e02bdf4b35aeff41f49a15085}
+      \strng{shortauthorbibnamehash}{9925b26e02bdf4b35aeff41f49a15085}
+      \strng{shortauthornamehash}{9925b26e02bdf4b35aeff41f49a15085}
+      \strng{shortauthorfullhash}{9925b26e02bdf4b35aeff41f49a15085}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Plano de Desenvolvimento Institucional da Universidade Federal de Ouro Preto - 2016-2025}
+      \field{year}{2016}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.ufop.br/sites/default/files/pdi_ufop_2016_2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ufop.br/sites/default/files/pdi_ufop_2016_2025.pdf
+      \endverb
+    \endentry
+    \entry{resolucao-cepe-4450}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=a220546a8db0972e8c2fc7e6e5533683}{%
+           family={CEPE4450},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{a220546a8db0972e8c2fc7e6e5533683}
+      \strng{bibnamehash}{a220546a8db0972e8c2fc7e6e5533683}
+      \strng{shortauthorbibnamehash}{a220546a8db0972e8c2fc7e6e5533683}
+      \strng{shortauthornamehash}{a220546a8db0972e8c2fc7e6e5533683}
+      \strng{shortauthorfullhash}{a220546a8db0972e8c2fc7e6e5533683}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{Resoluçãoo CEPE-UFOP 7609, de 20 de Nov. de 2018}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CEPE_4450.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CEPE_4450.pdf
+      \endverb
+    \endentry
+    \entry{resolucao-cepe-7609}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=462c80996487eeb728d49d234f1afcdc}{%
+           family={UFOP},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{bibnamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthorbibnamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthornamehash}{462c80996487eeb728d49d234f1afcdc}
+      \strng{shortauthorfullhash}{462c80996487eeb728d49d234f1afcdc}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Resoluçãoo CEPE-UFOP 7609, de 20 de Nov. de 2018}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CEPE_7609.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CEPE_7609.pdf
+      \endverb
+    \endentry
+    \entry{resolucao-cuni-1868}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=46d46ae0bd3d8def09d7db9c324870fa}{%
+           family={Estatuto-UFOP},
+           familyi={E\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{46d46ae0bd3d8def09d7db9c324870fa}
+      \strng{bibnamehash}{46d46ae0bd3d8def09d7db9c324870fa}
+      \strng{shortauthorbibnamehash}{46d46ae0bd3d8def09d7db9c324870fa}
+      \strng{shortauthornamehash}{46d46ae0bd3d8def09d7db9c324870fa}
+      \strng{shortauthorfullhash}{46d46ae0bd3d8def09d7db9c324870fa}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{Resoluçãoo CUNI-UFOP 1868 17 fev 2017}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CUNI_1868_ANEXO_0.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CUNI_1868_ANEXO_0.pdf
+      \endverb
+    \endentry
+    \entry{resolucao-cuni-1959}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ce7ea687f94d5888d6f13812af37261}{%
+           family={Regimento-UFOP},
+           familyi={R\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto}%
+      }
+      \list{organization}{1}{%
+        {Universidade Federal de Ouro Preto}%
+      }
+      \strng{namehash}{6ce7ea687f94d5888d6f13812af37261}
+      \strng{bibnamehash}{6ce7ea687f94d5888d6f13812af37261}
+      \strng{shortauthorbibnamehash}{6ce7ea687f94d5888d6f13812af37261}
+      \strng{shortauthornamehash}{6ce7ea687f94d5888d6f13812af37261}
+      \strng{shortauthorfullhash}{6ce7ea687f94d5888d6f13812af37261}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Resoluçãoo CUNI-UFOP 1959 28 nov 2017}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CUNI_1959_ANEXO_0.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.soc.ufop.br/public/files/RESOLUCAO_CUNI_1959_ANEXO_0.pdf
+      \endverb
+    \endentry
+    \entry{varellaetal2022}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=fa0c541219d34c4d85b89a3900f4728f}{%
+           family={Varella},
+           familyi={V\bibinitperiod},
+           given={Flávia\bibnamedelima Florentino},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=965fa9c8752516dd477aeb13c5ac5500}{%
+           family={CFH-UFSC},
+           familyi={C\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Florianópolis}%
+      }
+      \list{organization}{1}{%
+        {Centro de Filosofia e Ciências Humanas da Universidade Federal de Santa Catarina}%
+      }
+      \strng{namehash}{965fa9c8752516dd477aeb13c5ac5500}
+      \strng{fullhash}{fa0c541219d34c4d85b89a3900f4728f}
+      \strng{bibnamehash}{965fa9c8752516dd477aeb13c5ac5500}
+      \strng{editorbibnamehash}{fa0c541219d34c4d85b89a3900f4728f}
+      \strng{editornamehash}{fa0c541219d34c4d85b89a3900f4728f}
+      \strng{editorfullhash}{fa0c541219d34c4d85b89a3900f4728f}
+      \strng{shortauthorbibnamehash}{965fa9c8752516dd477aeb13c5ac5500}
+      \strng{shortauthornamehash}{965fa9c8752516dd477aeb13c5ac5500}
+      \strng{shortauthorfullhash}{965fa9c8752516dd477aeb13c5ac5500}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{editortype}{Coord.}
+      \field{month}{5}
+      \field{title}{Divulgação Interdisciplinar do conhecimento Científico em Plataformas Digitais e Espaços Físicos}
+      \field{year}{2022}
+    \endentry
+    \entry{wikimedianasala}{misc}{}
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=6e51e7d51a9078dfcb9ac6a959abf640}{%
+           family={Wikimedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \list{publisher}{1}{%
+        {wikipedia}%
+      }
+      \strng{namehash}{6e51e7d51a9078dfcb9ac6a959abf640}
+      \strng{bibnamehash}{6e51e7d51a9078dfcb9ac6a959abf640}
+      \strng{shortauthorbibnamehash}{6e51e7d51a9078dfcb9ac6a959abf640}
+      \strng{shortauthornamehash}{6e51e7d51a9078dfcb9ac6a959abf640}
+      \strng{shortauthorfullhash}{6e51e7d51a9078dfcb9ac6a959abf640}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Programa Wikipedia no Ensino}
+      \field{title}{Estudos de caso: Como os professores estão ensinando com a Wikipédia.}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://bit.ly/38PuTER
+      \endverb
+      \verb{url}
+      \verb https://bit.ly/38PuTER
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
